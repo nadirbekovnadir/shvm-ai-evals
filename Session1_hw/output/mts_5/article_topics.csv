@@ -1,0 +1,787 @@
+title,topic_id,llm_label,probability
+How can I see my cashflow analytics?,42,Financial analytics dashboard,1.0
+How can I see my spending and income analytics?,42,Financial analytics dashboard,1.0
+How can I see my total wealth analytics?,42,Financial analytics dashboard,1.0
+How do I add a custom asset to my total wealth view?,42,Financial analytics dashboard,1.0
+How to assign and adjust categories,7,Schedule and cancel transfers,0.5474
+Create and manage custom categories for transactions,7,Schedule and cancel transfers,0.5001
+How does sorting to investments work?,36,Trading fees and allowances,0.0
+How are trips defined for travel analytics?,2,Travel insurance coverage,0.6397
+How can I see my travel analytics?,42,Financial analytics dashboard,1.0
+How does travel mode work?,12,Account security features,0.0
+Using the Income Sorter feature,42,Financial analytics dashboard,0.0
+What is the analytics dashboard?,42,Financial analytics dashboard,1.0
+Why wasn’t my income sorted?,42,Financial analytics dashboard,0.0
+How does Bulgaria adopting the Euro affect me?,16,Currency exchange and transfer fees,0.0
+What is Open Banking and how does it work?,12,Account security features,0.4686
+How will the account transition affect returns/chargebacks?,19,Account move to Revolut Bank,0.7407
+Are funds in my  independent teen account FSCS protected?,26,FSCS fund protection,1.0
+Can I keep my e-money account?,19,Account move to Revolut Bank,1.0
+Does the account transfer impact my plan insurance cover?,2,Travel insurance coverage,1.0
+How will I know when my account has been moved?,19,Account move to Revolut Bank,0.879
+Is my account eligible to be moved to Revolut Bank?,19,Account move to Revolut Bank,1.0
+Is the money in my Savings account protected by the FSCS?,26,FSCS fund protection,1.0
+"Now that Revolut is a bank, how is my money protected?",26,FSCS fund protection,1.0
+What do I need to do to move my account to a bank account?,19,Account move to Revolut Bank,1.0
+What happens to my data while my account is being moved?,19,Account move to Revolut Bank,0.9537
+What will happen to my account when it’s moved?,26,FSCS fund protection,0.655
+What will happen to my Joint account?,19,Account move to Revolut Bank,0.7899
+Who regulates Revolut Bank and where can I complain?,4,Reporting vulnerable circumstances,0.6378
+Why is Revolut becoming a bank in the UK?,26,FSCS fund protection,0.4352
+Will my account be at risk while it's being moved over?,19,Account move to Revolut Bank,1.0
+Will my account details change after my account is moved?,19,Account move to Revolut Bank,1.0
+Will my fees and charges change now that Revolut is a bank?,19,Account move to Revolut Bank,0.6289
+Will Revolut Bank have physical branches?,19,Account move to Revolut Bank,0.0
+Will the account transition have any tax implications?,19,Account move to Revolut Bank,0.8929
+Will this affect my other Revolut products?,19,Account move to Revolut Bank,0.6961
+Why didn't I get a bank account when I signed up?,26,FSCS fund protection,0.2097
+Will my hardware be affected by the account transition?,19,Account move to Revolut Bank,0.7355
+Will the transition affect my Pro products and services?,19,Account move to Revolut Bank,0.4919
+Why is my balance now negative?,21,Declined card payments and balances,1.0
+Add money in one tap,14,Bank transfers to Revolut,0.8758
+Add money with a bank transfer,14,Bank transfers to Revolut,1.0
+Add money with an easy bank transfer,14,Bank transfers to Revolut,1.0
+Get paid early with Early Salary,14,Bank transfers to Revolut,1.0
+Card deposit limits and fees,13,13_pay_card_money_payment,0.7893
+How to make cash deposits,13,13_pay_card_money_payment,0.7913
+Disruptions to adding money with Visa cards,13,13_pay_card_money_payment,0.7913
+Receiving money to my Revolut card,14,Bank transfers to Revolut,0.6761
+How to add money with a card,13,13_pay_card_money_payment,0.0
+Add money with Apple Pay or Google Pay,13,13_pay_card_money_payment,0.7913
+Auto top-ups,41,Physical card activation and replacement,0.0
+Manage my deposit cards,41,Physical card activation and replacement,0.0
+My card deposit didn't work,14,Bank transfers to Revolut,0.0
+Restricted card deposits,13,13_pay_card_money_payment,0.0
+Ukraine card top-up limits,13,13_pay_card_money_payment,0.0
+Why was my top-up reverted?,21,Declined card payments and balances,0.897
+Cards and currencies supported for adding money,8,Supported currencies and cards,0.874
+Why your card top-ups may be blocked,21,Declined card payments and balances,0.739
+Requesting money with a payment link,13,13_pay_card_money_payment,0.8219
+How to split a bill with another Revolut customer,7,Schedule and cancel transfers,0.0
+Am I covered by Ultra trip cancellation protection if I need to cancel a flight while abroad?,22,Cancel for any reason protection,1.0
+Am I covered for trips or events that I didn't purchase with my Revolut account with Ultra trip and event cancellation protection?,22,Cancel for any reason protection,0.7242
+Ultra trip & event cancellation with companion coverage,22,Cancel for any reason protection,0.9974
+How do I get an update on my existing claim?,23,Purchase insurance coverage,0.886
+Cancel for any reason complaints,23,Purchase insurance coverage,1.0
+How do I make a cancel for any reason protection claim?,22,Cancel for any reason protection,0.3883
+My supplier won’t let me cancel my trip/event. Am I covered with Ultra trip and event cancellation protection?,22,Cancel for any reason protection,1.0
+Does moving home affect Ultra trip and event coverage?,2,Travel insurance coverage,0.6942
+Will I get a full refund for my trip or event cancellation?,22,Cancel for any reason protection,0.5459
+What are the limits of cover and deductibles?,22,Cancel for any reason protection,0.9974
+Getting started with cancel for any reason protection,22,Cancel for any reason protection,0.7279
+Documents needed for an Ultra trip and event cancellation protection claim,22,Cancel for any reason protection,0.4579
+What is a trip?,22,Cancel for any reason protection,1.0
+What is an event?,22,Cancel for any reason protection,0.7285
+Who provides Ultra trip and event cancellation protection?,22,Cancel for any reason protection,1.0
+How do I link an external account to Revolut?,14,Bank transfers to Revolut,1.0
+Manage my external linked accounts in Revolut,42,Financial analytics dashboard,0.0
+Can I accept multiple paid plan gifts?,43,Gifting paid plans,1.0
+Gifting a paid plan,43,Gifting paid plans,1.0
+How to share your birthday on Revolut,43,Gifting paid plans,0.0
+Receiving paid plan gifts,43,Gifting paid plans,1.0
+Sending paid plan gifts,43,Gifting paid plans,1.0
+What happens once the gifted paid plan duration ends?,43,Gifting paid plans,1.0
+Earning interest with Savings,37,Instant Access Savings Interest Rates,1.0
+Getting started with Savings,37,Instant Access Savings Interest Rates,1.0
+How to calculate interest on Savings accounts,37,Instant Access Savings Interest Rates,1.0
+How is interest calculated on tiered Instant Access Savings?,37,Instant Access Savings Interest Rates,1.0
+Rate decrease on my Instant Access Savings,37,Instant Access Savings Interest Rates,1.0
+Why is my withdrawal pending?,9,Transfer status and processing times,1.0
+Savings Challenge,37,Instant Access Savings Interest Rates,0.9279
+Instant Access Savings promotion,37,Instant Access Savings Interest Rates,1.0
+Tax on Savings,29,Tax and national ID requirements,0.0
+How are the funds in my Savings accounts protected?,26,FSCS fund protection,0.88
+Why was my Savings Accounts restricted or closed?,37,Instant Access Savings Interest Rates,0.0
+Add money to your savings account,27,Pockets and Spare Change Donations,0.0
+Close my Savings account,31,Joint account management,1.0
+Withdraw from your Savings account,37,Instant Access Savings Interest Rates,0.0
+Documents and statements for my Savings accounts,33,Download statements and documents,0.7788
+Cover for cancelled and interrupted trips,22,Cancel for any reason protection,0.5564
+Do I have to pay for my trip using my Revolut account?,2,Travel insurance coverage,0.6644
+Claiming after Premium travel insurance removal,2,Travel insurance coverage,0.5727
+Does moving home impact my travel insurance?,2,Travel insurance coverage,0.3908
+Travel insurance coverage,2,Travel insurance coverage,1.0
+Travel insurance for areas affected by conflict,2,Travel insurance coverage,0.4918
+Close a Pocket,27,Pockets and Spare Change Donations,1.0
+How do I manage a Group Pocket?,27,Pockets and Spare Change Donations,1.0
+Adding money to Pockets,27,Pockets and Spare Change Donations,0.5799
+Withdrawing from Pockets,27,Pockets and Spare Change Donations,1.0
+Spare change round ups,27,Pockets and Spare Change Donations,0.0
+I can't find my Vaults,27,Pockets and Spare Change Donations,0.9862
+How to link a card to a Pocket and manage it,27,Pockets and Spare Change Donations,1.0
+Getting started with Pockets,27,Pockets and Spare Change Donations,1.0
+What if I don't have enough money in my bills Pocket?,21,Declined card payments and balances,0.0
+What is Revolut Pay?,18,RevPoints earning and redemption,0.0
+How to withdraw cash from an ATM,24,Cash withdrawal and exchange fees,0.0
+Fees for cash withdrawals,24,Cash withdrawal and exchange fees,1.0
+My card payment is pending,21,Declined card payments and balances,1.0
+How to disable RevPoints spare change?,18,RevPoints earning and redemption,0.0
+Why did my payment amount change?,21,Declined card payments and balances,1.0
+Fees for card payments in a foreign currency,24,Cash withdrawal and exchange fees,1.0
+Setting a monthly spending limit,13,13_pay_card_money_payment,0.7893
+How do regulatory limits affect my usage?,13,13_pay_card_money_payment,0.0
+Am I eligible for Apple Pay?,8,Supported currencies and cards,0.7822
+Am I eligible for Google Pay?,8,Supported currencies and cards,0.7046
+Payment limits when using Apple Pay or Google Pay,13,13_pay_card_money_payment,0.8043
+Decline reasons on Apple Pay and Google Pay,21,Declined card payments and balances,0.6649
+Setting up Apple Pay,46,Adding cards to Apple Pay,1.0
+Setting up Google Pay,46,Adding cards to Apple Pay,1.0
+Where can I pay with Apple Pay or Google Pay?,13,13_pay_card_money_payment,0.8983
+How do I block and unblock a merchant?,1,Reporting scams and fraud,0.5619
+What currencies are supported for spending?,8,Supported currencies and cards,0.874
+Card payment fees and limits,13,13_pay_card_money_payment,0.8043
+Card verification and pre-authorisation,21,Declined card payments and balances,0.0
+What is Dynamic Currency Conversion (DCC)?,16,Currency exchange and transfer fees,0.0
+Which merchants are not supported by Revolut?,8,Supported currencies and cards,0.5342
+What is a virtual card?,38,Virtual card usage and limits,1.0
+My virtual card is not working,38,Virtual card usage and limits,1.0
+Problems with my card PIN,46,Adding cards to Apple Pay,1.0
+Why was my card payment declined if I have enough funds?,21,Declined card payments and balances,0.9129
+What is 3D Secure?,12,Account security features,0.4686
+Delayed (offline) card payments,21,Declined card payments and balances,1.0
+Where can I use my Revolut card?,8,Supported currencies and cards,0.8616
+Am I eligible for Click to Pay?,8,Supported currencies and cards,0.8247
+How do I add cards to Click to Pay?,44,Click to Pay card management,1.0
+How can I remove my card from Click to Pay?,44,Click to Pay card management,1.0
+What is Click to Pay?,44,Click to Pay card management,1.0
+Why is my card added to Click to Pay not shown at checkout?,44,Click to Pay card management,1.0
+Declined card payment isn't visible,21,Declined card payments and balances,0.9182
+My card payment was declined by the security system,21,Declined card payments and balances,0.0
+What is the location-based security feature?,12,Account security features,0.5998
+My card payment was declined,21,Declined card payments and balances,0.851
+Why has my card payment been reverted?,21,Declined card payments and balances,0.9182
+Report a card payment as a scam or fraud,1,Reporting scams and fraud,1.0
+Card security settings,13,13_pay_card_money_payment,0.0
+Freeze a card,1,Reporting scams and fraud,0.8593
+How to cancel a dispute,7,Schedule and cancel transfers,0.9533
+Dispute a card payment,21,Declined card payments and balances,0.0
+Dispute process and timelines,9,Transfer status and processing times,0.538
+Update on my chargeback case,9,Transfer status and processing times,0.5715
+Problems with a refund,9,Transfer status and processing times,0.5824
+Revolut Chrome Extension,38,Virtual card usage and limits,0.0
+How to withdraw a foreign currency,24,Cash withdrawal and exchange fees,0.0
+Limits for using my card abroad,24,Cash withdrawal and exchange fees,1.0
+Tips for spending in a foreign currency,16,Currency exchange and transfer fees,0.9443
+What currency will I be charged in?,16,Currency exchange and transfer fees,0.9548
+Manage subscription payments to merchants,1,Reporting scams and fraud,0.5558
+Report a fraudulent ATM withdrawal,1,Reporting scams and fraud,1.0
+When does my ATM withdrawal limit reset?,24,Cash withdrawal and exchange fees,0.9899
+Why is my ATM withdrawal pending?,9,Transfer status and processing times,0.8041
+Why was my ATM withdrawal declined?,21,Declined card payments and balances,0.0
+Activate a physical card,41,Physical card activation and replacement,0.8433
+Reactivate a card,41,Physical card activation and replacement,1.0
+I can't add my card to Apple Pay,46,Adding cards to Apple Pay,1.0
+My card was stolen. What should I do?,41,Physical card activation and replacement,1.0
+The name on my card is incorrect,10,Logging in with phone number,0.4808
+Why is my Apple Pay card number different from my Revolut's?,46,Adding cards to Apple Pay,1.0
+My card has been swallowed by an ATM,1,Reporting scams and fraud,1.0
+Why aren’t my contactless payments working?,41,Physical card activation and replacement,0.0
+My single-use virtual card isn't working,38,Virtual card usage and limits,1.0
+My physical card isn't working,41,Physical card activation and replacement,1.0
+What should I do if my card is expiring soon?,41,Physical card activation and replacement,1.0
+Can I cancel or edit a card order?,28,Ordering physical cards,0.5964
+Can I choose between Mastercard and Visa?,28,Ordering physical cards,1.0
+Maximum active cards,38,Virtual card usage and limits,1.0
+What are the fees for ordering a card?,28,Ordering physical cards,0.5764
+Creating a virtual card,38,Virtual card usage and limits,1.0
+I ordered a card and it didn't arrive,28,Ordering physical cards,0.7444
+Card customisation,28,Ordering physical cards,1.0
+How does the Clear Sky debit card support Ukraine?,4,Reporting vulnerable circumstances,0.0
+Order a physical card,28,Ordering physical cards,1.0
+How do I get the Clear Sky debit card?,28,Ordering physical cards,0.0
+What is a special edition card?,28,Ordering physical cards,0.0
+What card brands and types can I get?,8,Supported currencies and cards,0.6518
+Finding the card PIN,46,Adding cards to Apple Pay,0.0
+Linking an existing card,44,Click to Pay card management,1.0
+Can I order my card to a different address?,28,Ordering physical cards,1.0
+How do I use a Revolut virtual card?,38,Virtual card usage and limits,1.0
+I received a card that I had marked as undelivered,41,Physical card activation and replacement,1.0
+I found my lost card,41,Physical card activation and replacement,1.0
+My card has been used fraudulently,1,Reporting scams and fraud,1.0
+Glossary of onboarding terms,17,Exchange Traded Products,0.8116
+Manage scheduled transfers,7,Schedule and cancel transfers,0.5474
+More help with a scheduled transfer,7,Schedule and cancel transfers,0.5474
+Schedule a transfer,7,Schedule and cancel transfers,0.5474
+Cash withdrawal limits and fees,24,Cash withdrawal and exchange fees,1.0
+Getting started with Pet Insurance,32,Pet Insurance Policy Management,1.0
+How do I make a protection insurance claim?,23,Purchase insurance coverage,1.0
+What's the excess for purchase insurance claims?,23,Purchase insurance coverage,0.9404
+Submitting documents for a purchase insurance claim,23,Purchase insurance coverage,1.0
+Is my mobile device covered by Revolut purchase protection?,23,Purchase insurance coverage,0.9404
+Getting started with purchase insurance,23,Purchase insurance coverage,0.9397
+What's not covered under purchase insurance?,23,Purchase insurance coverage,0.852
+What items are eligible for purchase insurance?,23,Purchase insurance coverage,0.7799
+Getting an update on an everyday protection claim,23,Purchase insurance coverage,1.0
+Who provides Revolut's everyday protection insurance?,23,Purchase insurance coverage,1.0
+Purchase protection coverage,23,Purchase insurance coverage,0.9404
+Refund protection coverage,23,Purchase insurance coverage,0.7024
+Event ticket cancellation protection coverage,22,Cancel for any reason protection,1.0
+Getting started with travel insurance,2,Travel insurance coverage,1.0
+What is the excess for travel insurance claims?,2,Travel insurance coverage,0.5758
+Trips covered by travel insurance,2,Travel insurance coverage,0.8253
+Why is my travel insurance coverage ending?,2,Travel insurance coverage,0.8744
+Submitting documents for a travel insurance claim,2,Travel insurance coverage,0.4706
+How can I view my travel insurance policy documents?,2,Travel insurance coverage,0.0
+How do I get an update on my existing claim?,2,Travel insurance coverage,0.3941
+How do I make a travel insurance claim?,2,Travel insurance coverage,0.4801
+Emergency medical assistance abroad,2,Travel insurance coverage,0.5388
+Cover for car hire excess,2,Travel insurance coverage,1.0
+Cover for delayed trips,2,Travel insurance coverage,0.6939
+"Cover for damaged, lost, or delayed baggage",2,Travel insurance coverage,0.6385
+Cover for medical expenses abroad,2,Travel insurance coverage,0.7088
+Cover for sports and activities,2,Travel insurance coverage,0.8732
+Who is covered by travel insurance?,2,Travel insurance coverage,1.0
+Who is Revolut's travel insurance provider?,2,Travel insurance coverage,0.7212
+How do I cancel my Pet Insurance policy?,32,Pet Insurance Policy Management,1.0
+How to make a Pet Insurance claim,32,Pet Insurance Policy Management,1.0
+Pet Insurance payments and renewals,32,Pet Insurance Policy Management,1.0
+How do I complain about my pet insurance?,32,Pet Insurance Policy Management,0.6045
+How can I view or manage my Revolut Pet Insurance policy?,32,Pet Insurance Policy Management,1.0
+Free 24/7 FirstVet Video Consultations,32,Pet Insurance Policy Management,0.8079
+Who are Revolut Pet Insurance?,32,Pet Insurance Policy Management,0.5548
+What are the main pet insurance policy conditions I should be aware of?,32,Pet Insurance Policy Management,1.0
+Can I cancel an Airport Fast Track pass? ,40,Airport lounge and fast track passes,1.0
+How do I purchase an Airport Fast Track pass?,40,Airport lounge and fast track passes,1.0
+How do I use my airport fast track pass?,40,Airport lounge and fast track passes,0.9013
+Reasons you can trust Revolut,4,Reporting vulnerable circumstances,0.6359
+Can I contact Revolut using a Power of Attorney?,4,Reporting vulnerable circumstances,0.0
+Media enquiries,4,Reporting vulnerable circumstances,1.0
+Revolut Business,45,Revolut Pro features and cashback,0.0
+Work at Revolut,1,Reporting scams and fraud,0.0
+Difference between limited and full access to the web app,12,Account security features,0.4837
+Does Revolut offer services in Russia?,8,Supported currencies and cards,0.8106
+Reporting vulnerable circumstances to Revolut,4,Reporting vulnerable circumstances,0.8925
+How do I share feedback with Revolut?,4,Reporting vulnerable circumstances,1.0
+I lost access to a device my passkey is stored on,10,Logging in with phone number,1.0
+How can I file a complaint?,4,Reporting vulnerable circumstances,1.0
+Learn about my rights when making payments in Europe,8,Supported currencies and cards,0.8088
+Public Figure Check - More Information,29,Tax and national ID requirements,0.2794
+What is my tax residence?,29,Tax and national ID requirements,1.0
+What happens if the Revolut account holder passes away?,25,Identity verification documents,0.0
+Which Revolut companies provide me with services?,4,Reporting vulnerable circumstances,0.6378
+How can I improve my financial health?,4,Reporting vulnerable circumstances,1.0
+How can I share sensitive information with Revolut?,4,Reporting vulnerable circumstances,1.0
+Support if you are experiencing financial difficulties,4,Reporting vulnerable circumstances,1.0
+What gambling support is available?,4,Reporting vulnerable circumstances,1.0
+Where can I get help and advice on financial abuse?,4,Reporting vulnerable circumstances,1.0
+Where can I get help if I'm worried about my mental health?,4,Reporting vulnerable circumstances,1.0
+When will Revolut credit be available in my country?,8,Supported currencies and cards,0.617
+What is Revolut Pro and is it free?,45,Revolut Pro features and cashback,1.0
+Cancel a transaction on the Revolut Terminal,7,Schedule and cancel transfers,0.5947
+Cards and contactless payments with Revolut Terminals,13,13_pay_card_money_payment,0.8884
+Failed payments on the Revolut Terminal,21,Declined card payments and balances,0.7837
+How do I order a Revolut Terminal?,45,Revolut Pro features and cashback,0.0
+How do I log in to my Revolut Terminal?,10,Logging in with phone number,0.0
+eSIM on Revolut Terminals,30,eSIM data plan setup,0.9164
+I'm having trouble using my Revolut Terminal,30,eSIM data plan setup,0.0
+Sales using a Revolut Pro product catalogue,7,Schedule and cancel transfers,0.0
+Edit the time on my Revolut Terminal,12,Account security features,0.0
+Warranty on Revolut Terminals,9,Transfer status and processing times,0.4545
+What are Revolut Terminals?,13,13_pay_card_money_payment,1.0
+When will I receive my Revolut Terminal?,9,Transfer status and processing times,0.486
+Failed payment on Tap to Pay on iPhone,13,13_pay_card_money_payment,0.0
+Can I accept payments with Revolut Pro?,13,13_pay_card_money_payment,1.0
+How much does it cost to accept payments with Revolut Pro?,13,13_pay_card_money_payment,1.0
+What are Payment Links and how do I use them?,13,13_pay_card_money_payment,1.0
+When do payments arrive in my Pro account?,9,Transfer status and processing times,0.8961
+Install the Shopify plugin for Revolut Pro,45,Revolut Pro features and cashback,0.0
+Revolut Pro invoices,13,13_pay_card_money_payment,0.0
+Warranty on the Revolut Reader,13,13_pay_card_money_payment,0.0
+What is Revolut Reader and how do I use it?,13,13_pay_card_money_payment,1.0
+Using Tap to Pay on iPhone to take payments,13,13_pay_card_money_payment,0.9302
+Why should I accept payments with Revolut Pro?,13,13_pay_card_money_payment,0.9326
+How do I add funds to my Pro account?,14,Bank transfers to Revolut,0.7479
+How to close a Revolut Pro account,31,Joint account management,0.7827
+Difference between Revolut Pro and Revolut Business,45,Revolut Pro features and cashback,1.0
+How to set up Direct Debits in Pro,45,Revolut Pro features and cashback,0.0
+What features are available with Revolut Pro?,45,Revolut Pro features and cashback,1.0
+How do I move money out of my Revolut Pro account?,14,Bank transfers to Revolut,0.8829
+Order a Revolut Pro card,28,Ordering physical cards,1.0
+How does Revolut Pro cashback work and how can I boost it?,45,Revolut Pro features and cashback,1.0
+Pro account under review or payments not working,45,Revolut Pro features and cashback,0.0
+How can I redeem my Pro Perks offers?,18,RevPoints earning and redemption,1.0
+What is Pro Perks?,45,Revolut Pro features and cashback,0.9515
+What are Pro Pockets?,27,Pockets and Spare Change Donations,0.573
+Why was my document not accepted for Revolut Pro?,25,Identity verification documents,0.7656
+Why was my URL not accepted for Revolut Pro?,45,Revolut Pro features and cashback,0.0
+Where can I find my Revolut Pro account in-app?,45,Revolut Pro features and cashback,0.0
+Who can use Revolut Pro and how do I get started?,45,Revolut Pro features and cashback,1.0
+Accessing the Retail Web App,10,Logging in with phone number,1.0
+What features are supported on the Web App?,12,Account security features,0.4762
+Security and data privacy,29,Tax and national ID requirements,0.0
+How do I close my account?,31,Joint account management,1.0
+Getting started with AIR,42,Financial analytics dashboard,0.0
+Getting started with Revolut,31,Joint account management,0.0
+How to contact Revolut Support,4,Reporting vulnerable circumstances,1.0
+Joint account card payments,31,Joint account management,0.7345
+Managing joint account ownership,31,Joint account management,1.0
+I want to close my Joint account,31,Joint account management,1.0
+Your Joint account statement,31,Joint account management,1.0
+Adding money to a Joint account,14,Bank transfers to Revolut,0.7093
+Setting up a Joint account,31,Joint account management,0.5453
+Joint account transfers,14,Bank transfers to Revolut,0.9128
+Order a Joint account card,28,Ordering physical cards,0.7642
+Getting started with Joint Savings,31,Joint account management,0.0
+What happens if my joint account balance goes negative?,21,Declined card payments and balances,1.0
+Revolut closed my joint account,31,Joint account management,0.8729
+Difficulty logging in,10,Logging in with phone number,0.7254
+Change passcode,10,Logging in with phone number,0.8051
+I lost access to my passkey,10,Logging in with phone number,1.0
+Duplicate account,31,Joint account management,0.5963
+Log in with a new phone number,10,Logging in with phone number,0.8051
+Lost or stolen device,10,Logging in with phone number,1.0
+Sign in with face ID or fingerprint,10,Logging in with phone number,0.8825
+What are passkeys?,10,Logging in with phone number,0.9745
+Download your account confirmation,33,Download statements and documents,0.0
+Download an account statement for a specific currency,33,Download statements and documents,1.0
+How to download a card confirmation document,33,Download statements and documents,0.0
+Download a cryptocurrency statement,33,Download statements and documents,1.0
+Documents for a closed account ,10,Logging in with phone number,0.0
+Get a Pockets statement,27,Pockets and Spare Change Donations,0.7403
+Download transaction or top-up statement,33,Download statements and documents,1.0
+Download statement of fees,33,Download statements and documents,1.0
+How to download a subject access request document,33,Download statements and documents,0.0
+How can I download trading statements and reports?,33,Download statements and documents,1.0
+Why are my statement balance and in-app balance different?,16,Currency exchange and transfer fees,0.7991
+What is the consolidated statement?,33,Download statements and documents,1.0
+Cancelling your scheduled plan downgrade,20,Downgrading paid plans,0.7037
+Downgrading your paid plan,20,Downgrading paid plans,0.7278
+Paid plan downgrade fees ,20,Downgrading paid plans,0.6611
+Changing your paid plan billing date,20,Downgrading paid plans,1.0
+Managing your paid plan billing,20,Downgrading paid plans,1.0
+Pay for your missed plan payment,20,Downgrading paid plans,1.0
+Your paid plan subscription end date,20,Downgrading paid plans,0.6633
+Next payment date for your paid plan,20,Downgrading paid plans,1.0
+Paid plan payment status,20,Downgrading paid plans,1.0
+Chess.com,11,Accessing plan partner subscriptions,1.0
+ClassPass,11,Accessing plan partner subscriptions,0.7464
+Financial Times,11,Accessing plan partner subscriptions,1.0
+Freeletics,11,Accessing plan partner subscriptions,1.0
+Headspace,11,Accessing plan partner subscriptions,1.0
+Headway,11,Accessing plan partner subscriptions,0.4976
+MasterClass,11,Accessing plan partner subscriptions,0.3179
+NordVPN,11,Accessing plan partner subscriptions,0.285
+Perplexity,11,Accessing plan partner subscriptions,0.2414
+Picsart,11,Accessing plan partner subscriptions,1.0
+How do I access a partner benefit?,11,Accessing plan partner subscriptions,0.0
+Laundryheap,11,Accessing plan partner subscriptions,0.5679
+What happens to my partner benefits if I change my plan?,20,Downgrading paid plans,0.0
+What are partner benefits?,11,Accessing plan partner subscriptions,0.0
+Sleep Cycle,11,Accessing plan partner subscriptions,0.3475
+The Athletic,11,Accessing plan partner subscriptions,0.8792
+Tinder,11,Accessing plan partner subscriptions,0.3594
+Turo rewards,11,Accessing plan partner subscriptions,0.1729
+Uber One,11,Accessing plan partner subscriptions,0.9834
+WeWork,11,Accessing plan partner subscriptions,0.2435
+Discounts for loyal customers,43,Gifting paid plans,0.9364
+Promotional and free trials,20,Downgrading paid plans,0.5431
+Order a paid plan card,28,Ordering physical cards,1.0
+Metal plan,11,Accessing plan partner subscriptions,0.0
+Plus plan,24,Cash withdrawal and exchange fees,0.0
+Premium plan,43,Gifting paid plans,0.0
+Standard plan,24,Cash withdrawal and exchange fees,0.0
+Ultra plan,22,Cancel for any reason protection,0.0
+Can I reopen my closed account?,31,Joint account management,0.0
+Switching languages in the app,16,Currency exchange and transfer fees,0.9509
+How do I manage notifications from Revolut?,10,Logging in with phone number,0.0
+Trouble with mobile verification code,10,Logging in with phone number,0.0
+Change my address,19,Account move to Revolut Bank,0.5067
+Change my date of birth,10,Logging in with phone number,0.8051
+Change my name,10,Logging in with phone number,0.4682
+Change my phone number,10,Logging in with phone number,0.6553
+Change or verify email address,10,Logging in with phone number,0.6643
+Change my Revtag,10,Logging in with phone number,0.0
+Update my tax information,29,Tax and national ID requirements,1.0
+Source of funds,25,Identity verification documents,1.0
+Upgrade my plan,20,Downgrading paid plans,0.9533
+Accepted proof of address documents,25,Identity verification documents,1.0
+Documents for the source of funds verification,25,Identity verification documents,0.9726
+Verify my identity,25,Identity verification documents,1.0
+How do I provide proof of address?,25,Identity verification documents,1.0
+I'm unable to verify my identity,25,Identity verification documents,0.9499
+Where you can sign up for Revolut,8,Supported currencies and cards,0.0
+What is Revolut ID?,10,Logging in with phone number,0.5524
+Managing a Revolut – Kids & Teens account,15,Kids and Teens Account Management,1.0
+Revolut – Kids & Teens cards,15,Kids and Teens Account Management,0.3199
+Revolut – Kids & Teens Earn,15,Kids and Teens Account Management,1.0
+Revolut Kids & Teens Rewards,15,Kids and Teens Account Management,0.921
+Revolut Kids & Teens Save,15,Kids and Teens Account Management,0.4466
+Revolut – Kids & Teens payments,15,Kids and Teens Account Management,0.4518
+Add money to or withdraw from Revolut Kids & Teens account,15,Kids and Teens Account Management,1.0
+Forgotten passcode for a Kids & Teens account,10,Logging in with phone number,0.7369
+Graduation to the main app,15,Kids and Teens Account Management,0.6454
+Kids & Teens Instant Access Savings,15,Kids and Teens Account Management,0.428
+Open a Revolut – Kids & Teens account,15,Kids and Teens Account Management,1.0
+Revolut — Kids & Teens subscription bundles,15,Kids and Teens Account Management,0.1964
+Request a Revolut – Kids & Teens virtual card,15,Kids and Teens Account Management,0.504
+Revolut – Kids & Teens card management,15,Kids and Teens Account Management,0.3947
+Revolut Kids & Teens Payment Links,15,Kids and Teens Account Management,0.754
+Revolut - Kids & Teens Referrals,15,Kids and Teens Account Management,0.2405
+Revolut - Kids & Teens statements,15,Kids and Teens Account Management,1.0
+What if Revolut - Kids & Teens isn't available?,15,Kids and Teens Account Management,0.0
+Is my private information safe?,12,Account security features,0.5769
+When to put gambling controls in place,4,Reporting vulnerable circumstances,1.0
+How does the gambling block work?,1,Reporting scams and fraud,0.6448
+A refund or chargeback was sent to my closed account,9,Transfer status and processing times,0.5578
+My account was restricted or closed,25,Identity verification documents,0.0
+Report a fraudulent transfer,1,Reporting scams and fraud,1.0
+What does Revolut use my data for?,25,Identity verification documents,0.0
+How long will Revolut hold my data?,30,eSIM data plan setup,0.0
+Personal data required to create a Revolut account,25,Identity verification documents,0.0
+Hidden balance feature,12,Account security features,0.0
+Why haven't I received my Referrals reward?,6,Referral purchase requirements,1.0
+Referral reward smaller than expected,6,Referral purchase requirements,0.6089
+How to complete all steps for Referrals reward,6,Referral purchase requirements,0.7091
+How to complete 'Make purchases' step for Referrals reward,6,Referral purchase requirements,0.8157
+Why hasn't my referrer received their Referrals reward?,6,Referral purchase requirements,1.0
+How to add money for the Referrals reward,6,Referral purchase requirements,0.7901
+Order a physical card for Referrals reward,28,Ordering physical cards,0.4849
+Referrals reward requirements,6,Referral purchase requirements,0.9106
+Conditions for the referral campaign,6,Referral purchase requirements,1.0
+Completing the 'Make purchases' step,6,Referral purchase requirements,0.8411
+Claiming special bonus offered by Revolut promotion,6,Referral purchase requirements,1.0
+Missing reward from an influencer or brand signup,6,Referral purchase requirements,1.0
+Promotional cashback,6,Referral purchase requirements,0.9388
+Is physical card activation necessary before the deadline?,6,Referral purchase requirements,0.0
+Is a physical card required for your friend's purchases?,6,Referral purchase requirements,0.7112
+How can my friend order a physical card?,6,Referral purchase requirements,0.0
+How to complete 'Add Money' step,6,Referral purchase requirements,0.6469
+"My friend added money, but I still didn’t get the reward",6,Referral purchase requirements,0.8291
+My friend hasn’t received the card. Will I get my reward?,6,Referral purchase requirements,0.3905
+"My friend made 3 purchases, but I didn’t get the reward",6,Referral purchase requirements,0.6868
+"My friend ordered a card, but I didn’t get the reward. Why?",28,Ordering physical cards,0.5866
+What are the requirements for 3 purchases?,6,Referral purchase requirements,0.57
+What are the requirements to get a Referrals reward?,6,Referral purchase requirements,0.5493
+Why did I receive a smaller reward for a Referral than you advertised in the app?,6,Referral purchase requirements,0.537
+What is Airline Miles?,18,RevPoints earning and redemption,0.6137
+Linking your airline loyalty account,18,RevPoints earning and redemption,0.6273
+Redeeming RevPoints with Airline Miles,18,RevPoints earning and redemption,0.9827
+Difficulty using Airline Miles,18,RevPoints earning and redemption,0.5836
+Can I cancel an airport lounge pass? ,40,Airport lounge and fast track passes,1.0
+How do I purchase an airport lounge pass?,40,Airport lounge and fast track passes,1.0
+How do I use my airport lounge pass?,40,Airport lounge and fast track passes,0.9444
+I'm having difficulty with my airport lounge pass,40,Airport lounge and fast track passes,1.0
+How do I donate to Ukrainian refugees?,27,Pockets and Spare Change Donations,0.0
+Making a donation through Revolut,27,Pockets and Spare Change Donations,0.5663
+Spare change and recurring Donations,27,Pockets and Spare Change Donations,0.5388
+Auto-renewing an eSIM data plan,30,eSIM data plan setup,1.0
+Can I label my eSIM for my data plan?,30,eSIM data plan setup,1.0
+Difficulties with eSIM,30,eSIM data plan setup,1.0
+Revolut data plans,30,eSIM data plan setup,1.0
+Installing and activating my eSIM,30,eSIM data plan setup,1.0
+Managing my eSIM data plan,30,eSIM data plan setup,0.9471
+Supported eSIM devices,30,eSIM data plan setup,0.6014
+Mobile plan access and payment,20,Downgrading paid plans,0.5759
+Cancelling or rescheduling a number transfer to Revolut,34,Mobile number transfer,0.8205
+Cancelling your old phone plan,34,Mobile number transfer,1.0
+Managing a mobile plan for a lost or stolen device,10,Logging in with phone number,0.0
+Managing a failed number transfer,34,Mobile number transfer,1.0
+Managing a number transfer to Revolut,34,Mobile number transfer,1.0
+Managing mobile plans and add-ons,30,eSIM data plan setup,0.3292
+Understanding mobile plan numbers,34,Mobile number transfer,0.8138
+Paying for my mobile plan,20,Downgrading paid plans,0.9277
+Mobile plan voice support,4,Reporting vulnerable circumstances,1.0
+Setting up voicemail,46,Adding cards to Apple Pay,0.0
+Bring your number to Revolut mobile,34,Mobile number transfer,1.0
+Revolut mobile plans,30,eSIM data plan setup,0.5543
+Service disruptions during transfer to Revolut,34,Mobile number transfer,1.0
+Mobile plan allowance and consumption,20,Downgrading paid plans,0.4811
+Transfer your Revolut number to another provider,34,Mobile number transfer,1.0
+Reporting vulnerable circumstances to Revolut,4,Reporting vulnerable circumstances,0.8889
+How to redeem RevPoints for gift cards,18,RevPoints earning and redemption,0.917
+Finding your gift cards,18,RevPoints earning and redemption,0.0
+Shops,18,RevPoints earning and redemption,0.4583
+Can I get a VAT invoice for my Stays booking?,18,RevPoints earning and redemption,0.0
+How are properties sorted?,0,Trading order types,0.0
+Manage a Stays booking,18,RevPoints earning and redemption,0.2825
+Make a Stays booking,18,RevPoints earning and redemption,0.5222
+What does the Experiences feature offer?,18,RevPoints earning and redemption,0.4286
+Purchase RevPoints in app,18,RevPoints earning and redemption,1.0
+Redeem RevPoints,18,RevPoints earning and redemption,0.9195
+How to earn RevPoints,18,RevPoints earning and redemption,1.0
+RevPoints spare change,27,Pockets and Spare Change Donations,0.0
+What is the RevPoints loyalty program?,18,RevPoints earning and redemption,1.0
+Personalise RevPoints,18,RevPoints earning and redemption,1.0
+APP fraud reimbursement eligibility,1,Reporting scams and fraud,0.0
+Authorised Push Payment fraud reimbursement exclusions,1,Reporting scams and fraud,0.0
+Authorised Push Payment fraud reimbursement requirements,1,Reporting scams and fraud,0.0
+Authorised Push Payment fraud reimbursement,1,Reporting scams and fraud,0.0
+How long will the Authorised Push Payment fraud reimbursement process take?,9,Transfer status and processing times,0.0
+Locked bootloader requirement for Android devices,12,Account security features,1.0
+Contacting your device manufacturer,12,Account security features,0.8875
+Ensuring security by using the official Revolut app,12,Account security features,1.0
+Operating system and security updates,12,Account security features,1.0
+Security risks of root access,12,Account security features,0.7581
+Unofficial (custom) firmware,12,Account security features,1.0
+Why is the Revolut app no longer supported on my device?,12,Account security features,1.0
+Review my information with CIFAS Marker,1,Reporting scams and fraud,0.8143
+Understanding the account review process,29,Tax and national ID requirements,0.0
+Fraud and cybercrime reporting to national authorities,1,Reporting scams and fraud,1.0
+Hidden accounts and transactions,31,Joint account management,0.0
+Someone wants to give you a lot of money?,1,Reporting scams and fraud,1.0
+Strange small charges on your card?,1,Reporting scams and fraud,1.0
+Feeling pressured or threatened?,1,Reporting scams and fraud,1.0
+Urgent text from a kid or friend?,1,Reporting scams and fraud,1.0
+Looking for a high return?,1,Reporting scams and fraud,1.0
+Paying a bill with new bank details? ,1,Reporting scams and fraud,1.0
+Have you been offered money to move funds?,1,Reporting scams and fraud,1.0
+Received an unexpected link?,1,Reporting scams and fraud,1.0
+Buying something online?,1,Reporting scams and fraud,1.0
+Met someone new online?,1,Reporting scams and fraud,1.0
+My phone suddenly lost signal,1,Reporting scams and fraud,1.0
+An urgent call out of the blue?,1,Reporting scams and fraud,1.0
+How can I keep my account safe from fraud?,1,Reporting scams and fraud,0.6269
+"How to report a suspicious call, email, link, or text",1,Reporting scams and fraud,0.9987
+How does Revolut keep my money safe?,26,FSCS fund protection,0.4414
+How does Revolut protect me against fraud?,12,Account security features,0.5325
+Accessing your transaction history from your Revolut account,33,Download statements and documents,0.0
+What are linked wallets?,44,Click to Pay card management,1.0
+What are Wealth Protection limits?,24,Cash withdrawal and exchange fees,0.7723
+Getting started with Street Mode,12,Account security features,0.5325
+Limits,24,Cash withdrawal and exchange fees,1.0
+Trouble with my selfie verification for Wealth Protection,25,Identity verification documents,0.6438
+Getting started with Wealth Protection,12,Account security features,0.4614
+What are Revolut's safety features?,12,Account security features,0.5998
+What will happen to my funds if Revolut goes bankrupt?,26,FSCS fund protection,1.0
+How do I upload a document?,25,Identity verification documents,1.0
+Difficulty with selfie authentication,25,Identity verification documents,0.6743
+What is my tax identification number?,29,Tax and national ID requirements,1.0
+Confirm your personal details again,25,Identity verification documents,0.7364
+Why is my incoming transfer pending?,9,Transfer status and processing times,1.0
+Can I cover intermediary bank fees upfront?,16,Currency exchange and transfer fees,1.0
+"Add, edit, or delete a beneficiary",7,Schedule and cancel transfers,1.0
+Trusted recipients,7,Schedule and cancel transfers,0.64
+Transfer I sent arrived in a different currency ,16,Currency exchange and transfer fees,1.0
+Why was my transfer sent via an intermediary bank?,16,Currency exchange and transfer fees,0.923
+I received a transfer from an unknown sender,7,Schedule and cancel transfers,1.0
+Timeframes for transfers,9,Transfer status and processing times,0.5761
+Bank transfer fees,16,Currency exchange and transfer fees,1.0
+Can I receive large bank transfers into my Revolut account?,14,Bank transfers to Revolut,0.0
+Can I receive my salary into my Revolut account?,14,Bank transfers to Revolut,0.9128
+Locate a bank transfer sent to my Revolut account,9,Transfer status and processing times,0.5447
+Why did I receive less money?,16,Currency exchange and transfer fees,0.9328
+Why was the transfer to my account reverted?,9,Transfer status and processing times,0.8695
+Supported currencies for holding,8,Supported currencies and cards,0.7501
+Switch your account to Revolut,14,Bank transfers to Revolut,0.0
+What currency account details are available for me?,16,Currency exchange and transfer fees,0.0
+What's Revolut's official name and address?,3,Crypto deposit troubleshooting,0.0
+What account details should I use for incoming transfers?,16,Currency exchange and transfer fees,0.686
+How to transfer funds to Revolut,14,Bank transfers to Revolut,0.6761
+Unsupported inbound bank transfers,8,Supported currencies and cards,1.0
+Difficulty adding money with an easy bank transfer,14,Bank transfers to Revolut,1.0
+Limits for transfers to other Revolut customers,16,Currency exchange and transfer fees,0.923
+Block or report another Revolut customer,1,Reporting scams and fraud,0.6344
+Group Bills,27,Pockets and Spare Change Donations,0.0
+I sent a transfer to the wrong Revolut customer,7,Schedule and cancel transfers,1.0
+My transfer to another Revolut customer is pending,7,Schedule and cancel transfers,1.0
+Send or request money from other Revolut customers,14,Bank transfers to Revolut,0.7916
+Revtags,10,Logging in with phone number,0.0
+My transfer to or from someone on Revolut wasn't received,7,Schedule and cancel transfers,0.4623
+I'm unable to send money to another Revolut customer,7,Schedule and cancel transfers,0.0
+Transferring funds to an external card,14,Bank transfers to Revolut,0.749
+I want to cancel my transfer to a card,7,Schedule and cancel transfers,0.9187
+My beneficiary has not received my card transfer,9,Transfer status and processing times,1.0
+Which countries can I send a card transfer to?,8,Supported currencies and cards,0.8073
+Why has my card transfer failed or been declined?,7,Schedule and cancel transfers,0.0
+Why is my card transfer still pending?,9,Transfer status and processing times,1.0
+I want to cancel a bank transfer,7,Schedule and cancel transfers,0.8851
+Locate a bank transfer sent from Revolut,9,Transfer status and processing times,1.0
+Why is my transfer to a bank account still pending?,9,Transfer status and processing times,0.9877
+Why was my outbound bank transfer reverted?,9,Transfer status and processing times,0.9653
+I can't send a transfer or create a recipient,7,Schedule and cancel transfers,0.401
+Can I make a local transfer in a different currency?,16,Currency exchange and transfer fees,0.0
+Download a transfer confirmation,9,Transfer status and processing times,0.0
+Sending money from Revolut to a bank account,14,Bank transfers to Revolut,0.7893
+Problem with a Direct Debit,7,Schedule and cancel transfers,0.0
+Manage Direct Debits,7,Schedule and cancel transfers,0.5133
+Setting up a Direct Debit,7,Schedule and cancel transfers,0.0
+Sending and requesting money with a payment link,13,13_pay_card_money_payment,0.0
+Why did my recipient receive less money?,16,Currency exchange and transfer fees,1.0
+I was asked for additional information about my transaction,25,Identity verification documents,0.7445
+Unsupported transfers sent from Revolut,8,Supported currencies and cards,1.0
+More help with sending money via a payment link,7,Schedule and cancel transfers,1.0
+Revolut.me link,13,13_pay_card_money_payment,0.0
+Insufficient funds for scheduled transfer,7,Schedule and cancel transfers,0.0
+Setting up scheduled payments to another Revolut customer,7,Schedule and cancel transfers,0.5001
+Can I transfer money to or from Russia or Belarus?,8,Supported currencies and cards,1.0
+Can I transfer money to Ukraine?,8,Supported currencies and cards,1.0
+Supported currencies for outgoing transfers,8,Supported currencies and cards,1.0
+Benefits and risks of trading crypto ETNs,17,Exchange Traded Products,1.0
+Get started with crypto ETNs,17,Exchange Traded Products,1.0
+Get started with non-crypto ETPs,17,Exchange Traded Products,0.894
+What does it mean to be a high-net-worth investor?,17,Exchange Traded Products,1.0
+What does it mean to be a restricted investor?,17,Exchange Traded Products,1.0
+Leveraged and inverse ETPs,17,Exchange Traded Products,0.642
+What is a crypto ETN?,17,Exchange Traded Products,1.0
+Get started with ETCs,17,Exchange Traded Products,0.8305
+Get started with ETNs,17,Exchange Traded Products,0.9862
+What is an Exchange-Traded Product (ETP)?,17,Exchange Traded Products,0.6484
+Exceeding my ISA allowance,35,Stocks and Shares ISA,1.0
+Investing with the Stocks and Shares ISA,35,Stocks and Shares ISA,1.0
+Stocks and Shares Individual Savings Account (ISA),35,Stocks and Shares ISA,1.0
+Stocks and Shares ISA rules,35,Stocks and Shares ISA,1.0
+Stocks and Shares ISA transfers,35,Stocks and Shares ISA,0.0
+What are the Stocks and Shares ISA fees?,36,Trading fees and allowances,0.9303
+What happens to my Stocks and Shares ISA if I move abroad?,35,Stocks and Shares ISA,0.0
+Trading Terminal,5,Revolut crypto trading and setup,0.936
+Crypto collections,5,Revolut crypto trading and setup,0.9767
+Accessing Revolut X,10,Logging in with phone number,1.0
+Revolut X top-ups and withdrawals,3,Crypto deposit troubleshooting,0.3838
+Get started with Revolut X,10,Logging in with phone number,0.0
+What types of orders can I create on Revolut X?,0,Trading order types,1.0
+About crypto unified balance,5,Revolut crypto trading and setup,1.0
+Revolut X fees,24,Cash withdrawal and exchange fees,0.6536
+Failed orders in Revolut X,0,Trading order types,0.0
+Why can't I trade in Revolut X?,0,Trading order types,0.0
+Why is part of my Revolut X portfolio balance unavailable?,0,Trading order types,0.59
+Issues with Take Profit or Stop Loss orders,0,Trading order types,1.0
+Take Profit and Stop Loss orders,0,Trading order types,1.0
+Setting up a virtual crypto card,38,Virtual card usage and limits,0.8103
+"Crypto payment fees, rates, and limits",24,Cash withdrawal and exchange fees,0.8819
+Crypto payments and how they work,5,Revolut crypto trading and setup,0.0
+View your crypto card payments,5,Revolut crypto trading and setup,0.0
+How does crypto staking work?,5,Revolut crypto trading and setup,0.7594
+Is there a fee associated with crypto staking?,24,Cash withdrawal and exchange fees,0.7054
+Stake and unstake crypto,5,Revolut crypto trading and setup,0.8055
+Calculation of crypto tiered pricing,24,Cash withdrawal and exchange fees,0.0
+Tier progression and account changes,24,Cash withdrawal and exchange fees,0.0
+Trading with crypto tiered pricing,24,Cash withdrawal and exchange fees,0.0
+How to make sure crypto withdrawals are processed smoothly,3,Crypto deposit troubleshooting,0.8082
+How to ensure my crypto is transferred successfully?,3,Crypto deposit troubleshooting,0.6118
+Crypto notifications,5,Revolut crypto trading and setup,0.0
+Crypto recurring buy,0,Trading order types,1.0
+Crypto rates and spread,5,Revolut crypto trading and setup,0.0
+Fees for trading crypto,24,Cash withdrawal and exchange fees,0.6536
+Crypto limit order,0,Trading order types,1.0
+What is a crypto market order?,0,Trading order types,0.9415
+Crypto stop order,0,Trading order types,1.0
+Crypto Learn,5,Revolut crypto trading and setup,1.0
+How does converting cryptocurrency to fiat currency work?,5,Revolut crypto trading and setup,0.8822
+Crypto delisting,5,Revolut crypto trading and setup,0.0
+Crypto account onboarding requirements,5,Revolut crypto trading and setup,0.9444
+Other crypto token information,3,Crypto deposit troubleshooting,0.4043
+Revolut crypto features and products,5,Revolut crypto trading and setup,1.0
+Can I set target prices for exchanging cryptocurrency?,0,Trading order types,1.0
+Receive (deposit) crypto from an external address,3,Crypto deposit troubleshooting,0.9661
+Return or manage crypto deposits,3,Crypto deposit troubleshooting,1.0
+Failed crypto deposits,3,Crypto deposit troubleshooting,1.0
+Addresses supported for withdrawing and reverting crypto deposits,3,Crypto deposit troubleshooting,1.0
+Can't see my deposit in-app,3,Crypto deposit troubleshooting,0.9082
+Pending crypto deposits,3,Crypto deposit troubleshooting,0.5464
+"Supported crypto deposit currencies, networks, and exchanges",3,Crypto deposit troubleshooting,0.7814
+Do I have an individual cryptocurrency wallet?,5,Revolut crypto trading and setup,0.8111
+Add a new wallet to withdraw crypto,3,Crypto deposit troubleshooting,0.0
+Crypto withdrawal fees,24,Cash withdrawal and exchange fees,0.0
+Crypto withdrawal limits,24,Cash withdrawal and exchange fees,0.8962
+Cryptocurrencies and networks available for withdrawals,3,Crypto deposit troubleshooting,1.0
+Send (withdraw) crypto to an external address,3,Crypto deposit troubleshooting,1.0
+Pending crypto withdrawals,3,Crypto deposit troubleshooting,0.7923
+Failed crypto withdrawals,3,Crypto deposit troubleshooting,0.8322
+Cryptocurrency networks,3,Crypto deposit troubleshooting,0.7269
+Buy and sell crypto,5,Revolut crypto trading and setup,0.7868
+Crypto basics,5,Revolut crypto trading and setup,1.0
+Is my crypto safe with Revolut?,5,Revolut crypto trading and setup,0.0
+Who provides Revolut's crypto services?,4,Reporting vulnerable circumstances,0.6378
+Taxes on crypto,5,Revolut crypto trading and setup,0.936
+Koinly crypto tax reports,5,Revolut crypto trading and setup,0.9191
+Why do I need to name the wallet owner for withdrawals?,29,Tax and national ID requirements,0.3126
+Crypto private keys and exposure on the blockchain,5,Revolut crypto trading and setup,0.7749
+Crypto spare change,27,Pockets and Spare Change Donations,0.4974
+What exchange rates does Revolut offer?,16,Currency exchange and transfer fees,0.0
+Currency exchange fees and limits,24,Cash withdrawal and exchange fees,1.0
+How do I exchange money?,16,Currency exchange and transfer fees,0.9548
+Currency exchange orders,0,Trading order types,0.8933
+"I just made an exchange, but I can't find my money",16,Currency exchange and transfer fees,1.0
+Why might my currency order fail or not execute?,0,Trading order types,0.546
+Open and manage additional currency accounts,16,Currency exchange and transfer fees,0.7672
+Investor related tax information,29,Tax and national ID requirements,1.0
+How does the commission-free allowance work?,36,Trading fees and allowances,1.0
+Trading orders routing,0,Trading order types,1.0
+What are trading regulatory fees and taxes?,36,Trading fees and allowances,1.0
+Buying or selling commodities,5,Revolut crypto trading and setup,0.7492
+"Commodities prices, rates, and fees",24,Cash withdrawal and exchange fees,0.0
+Commodities supported features,5,Revolut crypto trading and setup,0.7424
+Which precious metals are supported?,5,Revolut crypto trading and setup,0.741
+Start with Revolut Ramp,5,Revolut crypto trading and setup,1.0
+How can I get a full statement of my Ramp transaction?,3,Crypto deposit troubleshooting,0.4043
+Pay with Revolut Ramp,3,Crypto deposit troubleshooting,0.3916
+What are the fees for Revolut Ramp?,3,Crypto deposit troubleshooting,0.0
+I sent crypto to an incorrect wallet address. What can I do?,3,Crypto deposit troubleshooting,0.9814
+I was charged extra by my bank for a Ramp payment. Why?,16,Currency exchange and transfer fees,0.0
+My Ramp payment failed. What should I do?,21,Declined card payments and balances,0.739
+My Ramp transaction is completed but I didn't receive the funds,3,Crypto deposit troubleshooting,0.4103
+My Ramp payment was completed but I didn’t receive the crypto. What should I do?,3,Crypto deposit troubleshooting,0.461
+Revolut Ramp supported currencies and limits,5,Revolut crypto trading and setup,0.741
+Why did I receive less crypto than I paid for?,3,Crypto deposit troubleshooting,0.4595
+Why was I charged more than I was shown?,16,Currency exchange and transfer fees,0.0
+Advantages of investing in bonds,35,Stocks and Shares ISA,0.9704
+Get started with Bonds,35,Stocks and Shares ISA,0.9704
+Bonds fees,36,Trading fees and allowances,1.0
+Bonds terms and definitions,35,Stocks and Shares ISA,0.0
+Bond credit ratings,17,Exchange Traded Products,0.0
+Buy bonds in the Revolut app,0,Trading order types,1.0
+Buying a corporate bond vs buying stock in the same company,35,Stocks and Shares ISA,0.9369
+Bond name interpretation in the Revolut app,35,Stocks and Shares ISA,0.0
+How does Revolut process corporate actions?,39,Corporate actions on shares,0.0
+Dividends,35,Stocks and Shares ISA,1.0
+Merger or acquisition of a company whose shares I own,39,Corporate actions on shares,0.9998
+Stock delisting,0,Trading order types,0.6604
+Stock split,39,Corporate actions on shares,1.0
+Trading customer support,4,Reporting vulnerable circumstances,1.0
+Which Revolut Trading entity is providing me services?,4,Reporting vulnerable circumstances,0.6378
+Financial ratios for company analysis,39,Corporate actions on shares,1.0
+Market analysis,0,Trading order types,0.5141
+OTC stocks,0,Trading order types,0.6186
+Stock basics,39,Corporate actions on shares,1.0
+Stock markets,0,Trading order types,0.6604
+What is a fractional share?,39,Corporate actions on shares,1.0
+What is a trading halt?,0,Trading order types,1.0
+How do I update my trading account details?,10,Logging in with phone number,0.7721
+Why are you asking me for documents to open or continue using Revolut trading?,25,Identity verification documents,0.8832
+Understanding our onboarding question about affiliations,29,Tax and national ID requirements,0.2755
+Close my investment account,31,Joint account management,0.0
+Reasons an investment account may be closed,29,Tax and national ID requirements,0.0
+How is the portfolio value calculated?,39,Corporate actions on shares,1.0
+Overview of Revolut Trading Ltd's omnibus account ,26,FSCS fund protection,0.9139
+Trading watchlist and price alerts,0,Trading order types,0.0
+"Trading account information, statements and reports",33,Download statements and documents,0.7914
+Trade confirmation statements,33,Download statements and documents,0.5163
+Fund my investment account,16,Currency exchange and transfer fees,0.8449
+Using your credit card or a personal loan to trade stocks,17,Exchange Traded Products,0.3347
+How to withdraw funds from my investment account,0,Trading order types,0.0
+Open an investment account,29,Tax and national ID requirements,0.2642
+Can I transfer my account from another broker?,9,Transfer status and processing times,0.0
+Why does Revolut need my national identifier?,29,Tax and national ID requirements,1.0
+What information do I need to provide to onboard to trading?,29,Tax and national ID requirements,1.0
+What is an execution-only service?,0,Trading order types,0.7883
+What is a Special Purpose Acquisition Company (SPAC)?,17,Exchange Traded Products,0.3928
+American depositary receipts (ADRs) and pass-through fees,36,Trading fees and allowances,1.0
+Products available to trade,17,Exchange Traded Products,0.6303
+Can I have a trading account if I’m a US Person?,29,Tax and national ID requirements,0.5119
+Who is Revolut Trading Ltd authorised by?,4,Reporting vulnerable circumstances,0.6378
+What are non-tradable securities?,0,Trading order types,0.0
+Do I own my stocks?,39,Corporate actions on shares,1.0
+How are my investments with Revolut protected?,26,FSCS fund protection,0.7524
+How are the funds in my investment account protected?,26,FSCS fund protection,1.0
+What does capital at risk mean?,17,Exchange Traded Products,0.7436
+Buy order block,0,Trading order types,1.0
+Pending trading orders,0,Trading order types,1.0
+Close a stock position,0,Trading order types,0.0
+How to place a stock order,0,Trading order types,1.0
+Can I use leverage to trade?,0,Trading order types,0.0
+What is a GTC Order and how does it work?,0,Trading order types,0.851
+Trading limit orders,0,Trading order types,1.0
+What is a stop order?,0,Trading order types,0.853
+Trading order types,0,Trading order types,0.943
+Top Movers,0,Trading order types,0.0
+Security prices,0,Trading order types,0.6903
+What are Revolut's trading fees?,36,Trading fees and allowances,1.0
+Trading value limits,0,Trading order types,0.6656
+Why is my stock on 'sell only'?,0,Trading order types,0.7724
+Orders submitted during extended hours trading,0,Trading order types,0.8898
+Extended hours trading risks,0,Trading order types,1.0
+How extended hours trading works,0,Trading order types,1.0
+What is a trading day?,0,Trading order types,1.0
+Trading hours,0,Trading order types,0.7113
+What are the fees for Trading Pro?,36,Trading fees and allowances,1.0
+What is Trading Pro?,36,Trading fees and allowances,0.869

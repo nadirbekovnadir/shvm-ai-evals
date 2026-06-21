@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html><head><meta charset="utf-8"><title>mts_5 — topic report</title>
+<style>
+  html,body { height:100%; margin:0; font-family:system-ui,sans-serif; background:#fafafa; color:#222; }
+  h1 { font-size:17px; margin:10px 16px 2px; }
+  .sub { margin:0 16px 8px; color:#666; font-size:12px; }
+  .tabbar { display:flex; gap:4px; flex-wrap:wrap; padding:6px 12px; background:#eef; }
+  button { border:1px solid #ccd; background:#fff; padding:6px 14px; border-radius:6px; cursor:pointer; font-size:13px; }
+  button.active { background:#4458d6; color:#fff; border-color:#4458d6; }
+  .panel { display:none; }
+  .frame { width:100%; height:82vh; border:1px solid #e2e2ee; background:#fff; }
+</style></head><body>
+<h1>mts_5 — topic report</h1>
+<div class="sub">min_topic_size=5. "Secondary topic" = 2nd-best topic in an article's distribution has p2 &gt; 0.1.</div>
+<div class="tabbar"><button class="tab" id="tab-barchart" onclick="show('barchart')">Keywords</button><button class="tab" id="tab-documents" onclick="show('documents')">Documents</button><button class="tab" id="tab-pertopic" onclick="show('pertopic')">Per-topic</button><button class="tab" id="tab-pairs" onclick="show('pairs')">Top pairs</button><button class="tab" id="tab-heatmap" onclick="show('heatmap')">Heatmap</button></div>
+<div class="panel" id="panel-barchart"><iframe class="frame" data-src="barchart_labeled.html" loading="lazy"></iframe></div><div class="panel" id="panel-documents"><iframe class="frame" data-src="documents_labeled.html" loading="lazy"></iframe></div><div class="panel" id="panel-pertopic"><iframe class="frame" data-src="ambiguity_per_topic.html" loading="lazy"></iframe></div><div class="panel" id="panel-pairs"><iframe class="frame" data-src="ambiguity_pairs.html" loading="lazy"></iframe></div><div class="panel" id="panel-heatmap"><iframe class="frame" data-src="ambiguity_heatmap.html" loading="lazy"></iframe></div>
+<script>
+function show(id){
+  document.querySelectorAll('.panel').forEach(function(p){ p.style.display='none'; });
+  document.querySelectorAll('.tab').forEach(function(t){ t.classList.remove('active'); });
+  var panel = document.getElementById('panel-'+id);
+  panel.style.display='block';
+  document.getElementById('tab-'+id).classList.add('active');
+  var f = panel.querySelector('iframe');
+  if (f && !f.src && f.dataset.src) f.src = f.dataset.src;
+}
+show('barchart');
+</script>
+</body></html>

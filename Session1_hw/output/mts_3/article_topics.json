@@ -1,0 +1,4718 @@
+[
+  {
+    "title":"How can I see my cashflow analytics?",
+    "topic_id":43,
+    "llm_label":"Financial analytics dashboard",
+    "probability":0.9134
+  },
+  {
+    "title":"How can I see my spending and income analytics?",
+    "topic_id":43,
+    "llm_label":"Financial analytics dashboard",
+    "probability":1.0
+  },
+  {
+    "title":"How can I see my total wealth analytics?",
+    "topic_id":43,
+    "llm_label":"Financial analytics dashboard",
+    "probability":1.0
+  },
+  {
+    "title":"How do I add a custom asset to my total wealth view?",
+    "topic_id":43,
+    "llm_label":"Financial analytics dashboard",
+    "probability":0.8669
+  },
+  {
+    "title":"How to assign and adjust categories",
+    "topic_id":46,
+    "llm_label":"Scheduled transfers and custom categories",
+    "probability":0.9264
+  },
+  {
+    "title":"Create and manage custom categories for transactions",
+    "topic_id":46,
+    "llm_label":"Scheduled transfers and custom categories",
+    "probability":0.7422
+  },
+  {
+    "title":"How does sorting to investments work?",
+    "topic_id":64,
+    "llm_label":"Income Sorter",
+    "probability":1.0
+  },
+  {
+    "title":"How are trips defined for travel analytics?",
+    "topic_id":1,
+    "llm_label":"Revolut travel insurance coverage",
+    "probability":0.9586
+  },
+  {
+    "title":"How can I see my travel analytics?",
+    "topic_id":43,
+    "llm_label":"Financial analytics dashboard",
+    "probability":0.744
+  },
+  {
+    "title":"How does travel mode work?",
+    "topic_id":1,
+    "llm_label":"Revolut travel insurance coverage",
+    "probability":0.0
+  },
+  {
+    "title":"Using the Income Sorter feature",
+    "topic_id":64,
+    "llm_label":"Income Sorter",
+    "probability":0.9997
+  },
+  {
+    "title":"What is the analytics dashboard?",
+    "topic_id":43,
+    "llm_label":"Financial analytics dashboard",
+    "probability":1.0
+  },
+  {
+    "title":"Why wasn’t my income sorted?",
+    "topic_id":64,
+    "llm_label":"Income Sorter",
+    "probability":1.0
+  },
+  {
+    "title":"How does Bulgaria adopting the Euro affect me?",
+    "topic_id":39,
+    "llm_label":"Instant Access Savings Interest Rates",
+    "probability":0.0
+  },
+  {
+    "title":"What is Open Banking and how does it work?",
+    "topic_id":65,
+    "llm_label":"Account security and fraud protection",
+    "probability":0.8769
+  },
+  {
+    "title":"How will the account transition affect returns\/chargebacks?",
+    "topic_id":53,
+    "llm_label":"Account transition impact",
+    "probability":1.0
+  },
+  {
+    "title":"Are funds in my  independent teen account FSCS protected?",
+    "topic_id":20,
+    "llm_label":"FSCS protection for accounts",
+    "probability":1.0
+  },
+  {
+    "title":"Can I keep my e-money account?",
+    "topic_id":28,
+    "llm_label":"Moving accounts to Revolut Bank",
+    "probability":0.7499
+  },
+  {
+    "title":"Does the account transfer impact my plan insurance cover?",
+    "topic_id":1,
+    "llm_label":"Revolut travel insurance coverage",
+    "probability":1.0
+  },
+  {
+    "title":"How will I know when my account has been moved?",
+    "topic_id":28,
+    "llm_label":"Moving accounts to Revolut Bank",
+    "probability":0.5437
+  },
+  {
+    "title":"Is my account eligible to be moved to Revolut Bank?",
+    "topic_id":28,
+    "llm_label":"Moving accounts to Revolut Bank",
+    "probability":0.6411
+  },
+  {
+    "title":"Is the money in my Savings account protected by the FSCS?",
+    "topic_id":20,
+    "llm_label":"FSCS protection for accounts",
+    "probability":1.0
+  },
+  {
+    "title":"Now that Revolut is a bank, how is my money protected?",
+    "topic_id":20,
+    "llm_label":"FSCS protection for accounts",
+    "probability":1.0
+  },
+  {
+    "title":"What do I need to do to move my account to a bank account?",
+    "topic_id":28,
+    "llm_label":"Moving accounts to Revolut Bank",
+    "probability":1.0
+  },
+  {
+    "title":"What happens to my data while my account is being moved?",
+    "topic_id":28,
+    "llm_label":"Moving accounts to Revolut Bank",
+    "probability":0.7807
+  },
+  {
+    "title":"What will happen to my account when it’s moved?",
+    "topic_id":20,
+    "llm_label":"FSCS protection for accounts",
+    "probability":0.5363
+  },
+  {
+    "title":"What will happen to my Joint account?",
+    "topic_id":28,
+    "llm_label":"Moving accounts to Revolut Bank",
+    "probability":0.5698
+  },
+  {
+    "title":"Who regulates Revolut Bank and where can I complain?",
+    "topic_id":54,
+    "llm_label":"Revolut service providers and regulation",
+    "probability":1.0
+  },
+  {
+    "title":"Why is Revolut becoming a bank in the UK?",
+    "topic_id":20,
+    "llm_label":"FSCS protection for accounts",
+    "probability":0.3167
+  },
+  {
+    "title":"Will my account be at risk while it's being moved over?",
+    "topic_id":28,
+    "llm_label":"Moving accounts to Revolut Bank",
+    "probability":1.0
+  },
+  {
+    "title":"Will my account details change after my account is moved?",
+    "topic_id":28,
+    "llm_label":"Moving accounts to Revolut Bank",
+    "probability":1.0
+  },
+  {
+    "title":"Will my fees and charges change now that Revolut is a bank?",
+    "topic_id":53,
+    "llm_label":"Account transition impact",
+    "probability":1.0
+  },
+  {
+    "title":"Will Revolut Bank have physical branches?",
+    "topic_id":53,
+    "llm_label":"Account transition impact",
+    "probability":0.0
+  },
+  {
+    "title":"Will the account transition have any tax implications?",
+    "topic_id":28,
+    "llm_label":"Moving accounts to Revolut Bank",
+    "probability":0.5778
+  },
+  {
+    "title":"Will this affect my other Revolut products?",
+    "topic_id":53,
+    "llm_label":"Account transition impact",
+    "probability":1.0
+  },
+  {
+    "title":"Why didn't I get a bank account when I signed up?",
+    "topic_id":20,
+    "llm_label":"FSCS protection for accounts",
+    "probability":0.1478
+  },
+  {
+    "title":"Will my hardware be affected by the account transition?",
+    "topic_id":53,
+    "llm_label":"Account transition impact",
+    "probability":1.0
+  },
+  {
+    "title":"Will the transition affect my Pro products and services?",
+    "topic_id":53,
+    "llm_label":"Account transition impact",
+    "probability":0.8128
+  },
+  {
+    "title":"Why is my balance now negative?",
+    "topic_id":38,
+    "llm_label":"Pending and delayed card payments",
+    "probability":1.0
+  },
+  {
+    "title":"Add money in one tap",
+    "topic_id":7,
+    "llm_label":"Adding money via bank transfer",
+    "probability":0.9363
+  },
+  {
+    "title":"Add money with a bank transfer",
+    "topic_id":7,
+    "llm_label":"Adding money via bank transfer",
+    "probability":1.0
+  },
+  {
+    "title":"Add money with an easy bank transfer",
+    "topic_id":7,
+    "llm_label":"Adding money via bank transfer",
+    "probability":1.0
+  },
+  {
+    "title":"Get paid early with Early Salary",
+    "topic_id":7,
+    "llm_label":"Adding money via bank transfer",
+    "probability":0.7721
+  },
+  {
+    "title":"Card deposit limits and fees",
+    "topic_id":66,
+    "llm_label":"Card top-up restrictions",
+    "probability":1.0
+  },
+  {
+    "title":"How to make cash deposits",
+    "topic_id":60,
+    "llm_label":"60_deposit_card_pay_topup",
+    "probability":1.0
+  },
+  {
+    "title":"Disruptions to adding money with Visa cards",
+    "topic_id":66,
+    "llm_label":"Card top-up restrictions",
+    "probability":0.9805
+  },
+  {
+    "title":"Receiving money to my Revolut card",
+    "topic_id":7,
+    "llm_label":"Adding money via bank transfer",
+    "probability":0.5021
+  },
+  {
+    "title":"How to add money with a card",
+    "topic_id":60,
+    "llm_label":"60_deposit_card_pay_topup",
+    "probability":1.0
+  },
+  {
+    "title":"Add money with Apple Pay or Google Pay",
+    "topic_id":60,
+    "llm_label":"60_deposit_card_pay_topup",
+    "probability":1.0
+  },
+  {
+    "title":"Auto top-ups",
+    "topic_id":60,
+    "llm_label":"60_deposit_card_pay_topup",
+    "probability":0.6392
+  },
+  {
+    "title":"Manage my deposit cards",
+    "topic_id":60,
+    "llm_label":"60_deposit_card_pay_topup",
+    "probability":1.0
+  },
+  {
+    "title":"My card deposit didn't work",
+    "topic_id":60,
+    "llm_label":"60_deposit_card_pay_topup",
+    "probability":0.0
+  },
+  {
+    "title":"Restricted card deposits",
+    "topic_id":66,
+    "llm_label":"Card top-up restrictions",
+    "probability":1.0
+  },
+  {
+    "title":"Ukraine card top-up limits",
+    "topic_id":66,
+    "llm_label":"Card top-up restrictions",
+    "probability":1.0
+  },
+  {
+    "title":"Why was my top-up reverted?",
+    "topic_id":38,
+    "llm_label":"Pending and delayed card payments",
+    "probability":0.5803
+  },
+  {
+    "title":"Cards and currencies supported for adding money",
+    "topic_id":4,
+    "llm_label":"Supported currencies and cards",
+    "probability":1.0
+  },
+  {
+    "title":"Why your card top-ups may be blocked",
+    "topic_id":7,
+    "llm_label":"Adding money via bank transfer",
+    "probability":0.0
+  },
+  {
+    "title":"Requesting money with a payment link",
+    "topic_id":12,
+    "llm_label":"Accepting payments with Revolut",
+    "probability":1.0
+  },
+  {
+    "title":"How to split a bill with another Revolut customer",
+    "topic_id":12,
+    "llm_label":"Accepting payments with Revolut",
+    "probability":0.0
+  },
+  {
+    "title":"Am I covered by Ultra trip cancellation protection if I need to cancel a flight while abroad?",
+    "topic_id":14,
+    "llm_label":"Cancel for any reason protection",
+    "probability":1.0
+  },
+  {
+    "title":"Am I covered for trips or events that I didn't purchase with my Revolut account with Ultra trip and event cancellation protection?",
+    "topic_id":14,
+    "llm_label":"Cancel for any reason protection",
+    "probability":0.5484
+  },
+  {
+    "title":"Ultra trip & event cancellation with companion coverage",
+    "topic_id":14,
+    "llm_label":"Cancel for any reason protection",
+    "probability":1.0
+  },
+  {
+    "title":"How do I get an update on my existing claim?",
+    "topic_id":15,
+    "llm_label":"Purchase insurance coverage",
+    "probability":0.915
+  },
+  {
+    "title":"Cancel for any reason complaints",
+    "topic_id":15,
+    "llm_label":"Purchase insurance coverage",
+    "probability":1.0
+  },
+  {
+    "title":"How do I make a cancel for any reason protection claim?",
+    "topic_id":14,
+    "llm_label":"Cancel for any reason protection",
+    "probability":0.3338
+  },
+  {
+    "title":"My supplier won’t let me cancel my trip\/event. Am I covered with Ultra trip and event cancellation protection?",
+    "topic_id":14,
+    "llm_label":"Cancel for any reason protection",
+    "probability":0.9163
+  },
+  {
+    "title":"Does moving home affect Ultra trip and event coverage?",
+    "topic_id":1,
+    "llm_label":"Revolut travel insurance coverage",
+    "probability":1.0
+  },
+  {
+    "title":"Will I get a full refund for my trip or event cancellation?",
+    "topic_id":14,
+    "llm_label":"Cancel for any reason protection",
+    "probability":0.4333
+  },
+  {
+    "title":"What are the limits of cover and deductibles?",
+    "topic_id":14,
+    "llm_label":"Cancel for any reason protection",
+    "probability":0.8135
+  },
+  {
+    "title":"Getting started with cancel for any reason protection",
+    "topic_id":14,
+    "llm_label":"Cancel for any reason protection",
+    "probability":0.5031
+  },
+  {
+    "title":"Documents needed for an Ultra trip and event cancellation protection claim",
+    "topic_id":14,
+    "llm_label":"Cancel for any reason protection",
+    "probability":0.3578
+  },
+  {
+    "title":"What is a trip?",
+    "topic_id":14,
+    "llm_label":"Cancel for any reason protection",
+    "probability":0.8101
+  },
+  {
+    "title":"What is an event?",
+    "topic_id":14,
+    "llm_label":"Cancel for any reason protection",
+    "probability":0.6016
+  },
+  {
+    "title":"Who provides Ultra trip and event cancellation protection?",
+    "topic_id":14,
+    "llm_label":"Cancel for any reason protection",
+    "probability":0.9163
+  },
+  {
+    "title":"How do I link an external account to Revolut?",
+    "topic_id":7,
+    "llm_label":"Adding money via bank transfer",
+    "probability":0.9363
+  },
+  {
+    "title":"Manage my external linked accounts in Revolut",
+    "topic_id":43,
+    "llm_label":"Financial analytics dashboard",
+    "probability":0.0
+  },
+  {
+    "title":"Can I accept multiple paid plan gifts?",
+    "topic_id":40,
+    "llm_label":"Gifting paid plans to friends",
+    "probability":1.0
+  },
+  {
+    "title":"Gifting a paid plan",
+    "topic_id":40,
+    "llm_label":"Gifting paid plans to friends",
+    "probability":1.0
+  },
+  {
+    "title":"How to share your birthday on Revolut",
+    "topic_id":40,
+    "llm_label":"Gifting paid plans to friends",
+    "probability":0.4702
+  },
+  {
+    "title":"Receiving paid plan gifts",
+    "topic_id":40,
+    "llm_label":"Gifting paid plans to friends",
+    "probability":1.0
+  },
+  {
+    "title":"Sending paid plan gifts",
+    "topic_id":40,
+    "llm_label":"Gifting paid plans to friends",
+    "probability":0.9558
+  },
+  {
+    "title":"What happens once the gifted paid plan duration ends?",
+    "topic_id":40,
+    "llm_label":"Gifting paid plans to friends",
+    "probability":0.8132
+  },
+  {
+    "title":"Earning interest with Savings",
+    "topic_id":39,
+    "llm_label":"Instant Access Savings Interest Rates",
+    "probability":1.0
+  },
+  {
+    "title":"Getting started with Savings",
+    "topic_id":39,
+    "llm_label":"Instant Access Savings Interest Rates",
+    "probability":0.2331
+  },
+  {
+    "title":"How to calculate interest on Savings accounts",
+    "topic_id":39,
+    "llm_label":"Instant Access Savings Interest Rates",
+    "probability":1.0
+  },
+  {
+    "title":"How is interest calculated on tiered Instant Access Savings?",
+    "topic_id":39,
+    "llm_label":"Instant Access Savings Interest Rates",
+    "probability":1.0
+  },
+  {
+    "title":"Rate decrease on my Instant Access Savings",
+    "topic_id":39,
+    "llm_label":"Instant Access Savings Interest Rates",
+    "probability":1.0
+  },
+  {
+    "title":"Why is my withdrawal pending?",
+    "topic_id":19,
+    "llm_label":"Transfer status and tracking",
+    "probability":0.7148
+  },
+  {
+    "title":"Savings Challenge",
+    "topic_id":39,
+    "llm_label":"Instant Access Savings Interest Rates",
+    "probability":0.2211
+  },
+  {
+    "title":"Instant Access Savings promotion",
+    "topic_id":39,
+    "llm_label":"Instant Access Savings Interest Rates",
+    "probability":0.4992
+  },
+  {
+    "title":"Tax on Savings",
+    "topic_id":17,
+    "llm_label":"Tax and national identification",
+    "probability":0.0
+  },
+  {
+    "title":"How are the funds in my Savings accounts protected?",
+    "topic_id":20,
+    "llm_label":"FSCS protection for accounts",
+    "probability":0.6773
+  },
+  {
+    "title":"Why was my Savings Accounts restricted or closed?",
+    "topic_id":61,
+    "llm_label":"Closed restricted or deceased accounts",
+    "probability":1.0
+  },
+  {
+    "title":"Add money to your savings account",
+    "topic_id":39,
+    "llm_label":"Instant Access Savings Interest Rates",
+    "probability":0.0
+  },
+  {
+    "title":"Close my Savings account",
+    "topic_id":22,
+    "llm_label":"Joint account management",
+    "probability":1.0
+  },
+  {
+    "title":"Withdraw from your Savings account",
+    "topic_id":39,
+    "llm_label":"Instant Access Savings Interest Rates",
+    "probability":0.0
+  },
+  {
+    "title":"Documents and statements for my Savings accounts",
+    "topic_id":16,
+    "llm_label":"Download account statements",
+    "probability":0.4216
+  },
+  {
+    "title":"Cover for cancelled and interrupted trips",
+    "topic_id":14,
+    "llm_label":"Cancel for any reason protection",
+    "probability":0.4356
+  },
+  {
+    "title":"Do I have to pay for my trip using my Revolut account?",
+    "topic_id":1,
+    "llm_label":"Revolut travel insurance coverage",
+    "probability":1.0
+  },
+  {
+    "title":"Claiming after Premium travel insurance removal",
+    "topic_id":1,
+    "llm_label":"Revolut travel insurance coverage",
+    "probability":1.0
+  },
+  {
+    "title":"Does moving home impact my travel insurance?",
+    "topic_id":1,
+    "llm_label":"Revolut travel insurance coverage",
+    "probability":0.5925
+  },
+  {
+    "title":"Travel insurance coverage",
+    "topic_id":1,
+    "llm_label":"Revolut travel insurance coverage",
+    "probability":1.0
+  },
+  {
+    "title":"Travel insurance for areas affected by conflict",
+    "topic_id":1,
+    "llm_label":"Revolut travel insurance coverage",
+    "probability":1.0
+  },
+  {
+    "title":"Close a Pocket",
+    "topic_id":27,
+    "llm_label":"Group Pockets",
+    "probability":0.925
+  },
+  {
+    "title":"How do I manage a Group Pocket?",
+    "topic_id":27,
+    "llm_label":"Group Pockets",
+    "probability":0.9089
+  },
+  {
+    "title":"Adding money to Pockets",
+    "topic_id":27,
+    "llm_label":"Group Pockets",
+    "probability":0.3579
+  },
+  {
+    "title":"Withdrawing from Pockets",
+    "topic_id":27,
+    "llm_label":"Group Pockets",
+    "probability":1.0
+  },
+  {
+    "title":"Spare change round ups",
+    "topic_id":59,
+    "llm_label":"Spare change round ups",
+    "probability":1.0
+  },
+  {
+    "title":"I can't find my Vaults",
+    "topic_id":27,
+    "llm_label":"Group Pockets",
+    "probability":0.5497
+  },
+  {
+    "title":"How to link a card to a Pocket and manage it",
+    "topic_id":27,
+    "llm_label":"Group Pockets",
+    "probability":1.0
+  },
+  {
+    "title":"Getting started with Pockets",
+    "topic_id":27,
+    "llm_label":"Group Pockets",
+    "probability":1.0
+  },
+  {
+    "title":"What if I don't have enough money in my bills Pocket?",
+    "topic_id":27,
+    "llm_label":"Group Pockets",
+    "probability":0.0
+  },
+  {
+    "title":"What is Revolut Pay?",
+    "topic_id":9,
+    "llm_label":"RevPoints earning and redemption",
+    "probability":0.0
+  },
+  {
+    "title":"How to withdraw cash from an ATM",
+    "topic_id":18,
+    "llm_label":"18_limits_withdrawal_atm_fees",
+    "probability":0.0
+  },
+  {
+    "title":"Fees for cash withdrawals",
+    "topic_id":18,
+    "llm_label":"18_limits_withdrawal_atm_fees",
+    "probability":0.8317
+  },
+  {
+    "title":"My card payment is pending",
+    "topic_id":38,
+    "llm_label":"Pending and delayed card payments",
+    "probability":0.6644
+  },
+  {
+    "title":"How to disable RevPoints spare change?",
+    "topic_id":9,
+    "llm_label":"RevPoints earning and redemption",
+    "probability":0.0
+  },
+  {
+    "title":"Why did my payment amount change?",
+    "topic_id":38,
+    "llm_label":"Pending and delayed card payments",
+    "probability":1.0
+  },
+  {
+    "title":"Fees for card payments in a foreign currency",
+    "topic_id":18,
+    "llm_label":"18_limits_withdrawal_atm_fees",
+    "probability":1.0
+  },
+  {
+    "title":"Setting a monthly spending limit",
+    "topic_id":12,
+    "llm_label":"Accepting payments with Revolut",
+    "probability":0.7206
+  },
+  {
+    "title":"How do regulatory limits affect my usage?",
+    "topic_id":33,
+    "llm_label":"Apple Pay and Card Security",
+    "probability":0.8156
+  },
+  {
+    "title":"Am I eligible for Apple Pay?",
+    "topic_id":4,
+    "llm_label":"Supported currencies and cards",
+    "probability":1.0
+  },
+  {
+    "title":"Am I eligible for Google Pay?",
+    "topic_id":4,
+    "llm_label":"Supported currencies and cards",
+    "probability":1.0
+  },
+  {
+    "title":"Payment limits when using Apple Pay or Google Pay",
+    "topic_id":12,
+    "llm_label":"Accepting payments with Revolut",
+    "probability":0.8316
+  },
+  {
+    "title":"Decline reasons on Apple Pay and Google Pay",
+    "topic_id":60,
+    "llm_label":"60_deposit_card_pay_topup",
+    "probability":0.0
+  },
+  {
+    "title":"Setting up Apple Pay",
+    "topic_id":33,
+    "llm_label":"Apple Pay and Card Security",
+    "probability":0.8878
+  },
+  {
+    "title":"Setting up Google Pay",
+    "topic_id":35,
+    "llm_label":"Managing Click to Pay cards",
+    "probability":0.2069
+  },
+  {
+    "title":"Where can I pay with Apple Pay or Google Pay?",
+    "topic_id":12,
+    "llm_label":"Accepting payments with Revolut",
+    "probability":0.7497
+  },
+  {
+    "title":"How do I block and unblock a merchant?",
+    "topic_id":68,
+    "llm_label":"Blocking and unblocking payments",
+    "probability":1.0
+  },
+  {
+    "title":"What currencies are supported for spending?",
+    "topic_id":4,
+    "llm_label":"Supported currencies and cards",
+    "probability":1.0
+  },
+  {
+    "title":"Card payment fees and limits",
+    "topic_id":12,
+    "llm_label":"Accepting payments with Revolut",
+    "probability":0.7158
+  },
+  {
+    "title":"Card verification and pre-authorisation",
+    "topic_id":38,
+    "llm_label":"Pending and delayed card payments",
+    "probability":0.0
+  },
+  {
+    "title":"What is Dynamic Currency Conversion (DCC)?",
+    "topic_id":18,
+    "llm_label":"18_limits_withdrawal_atm_fees",
+    "probability":0.0
+  },
+  {
+    "title":"Which merchants are not supported by Revolut?",
+    "topic_id":4,
+    "llm_label":"Supported currencies and cards",
+    "probability":0.6428
+  },
+  {
+    "title":"What is a virtual card?",
+    "topic_id":41,
+    "llm_label":"Virtual card usage and limits",
+    "probability":1.0
+  },
+  {
+    "title":"My virtual card is not working",
+    "topic_id":41,
+    "llm_label":"Virtual card usage and limits",
+    "probability":1.0
+  },
+  {
+    "title":"Problems with my card PIN",
+    "topic_id":33,
+    "llm_label":"Apple Pay and Card Security",
+    "probability":1.0
+  },
+  {
+    "title":"Why was my card payment declined if I have enough funds?",
+    "topic_id":58,
+    "llm_label":"Card payment declined",
+    "probability":0.7048
+  },
+  {
+    "title":"What is 3D Secure?",
+    "topic_id":68,
+    "llm_label":"Blocking and unblocking payments",
+    "probability":0.0
+  },
+  {
+    "title":"Delayed (offline) card payments",
+    "topic_id":38,
+    "llm_label":"Pending and delayed card payments",
+    "probability":1.0
+  },
+  {
+    "title":"Where can I use my Revolut card?",
+    "topic_id":4,
+    "llm_label":"Supported currencies and cards",
+    "probability":1.0
+  },
+  {
+    "title":"Am I eligible for Click to Pay?",
+    "topic_id":4,
+    "llm_label":"Supported currencies and cards",
+    "probability":1.0
+  },
+  {
+    "title":"How do I add cards to Click to Pay?",
+    "topic_id":35,
+    "llm_label":"Managing Click to Pay cards",
+    "probability":1.0
+  },
+  {
+    "title":"How can I remove my card from Click to Pay?",
+    "topic_id":35,
+    "llm_label":"Managing Click to Pay cards",
+    "probability":0.9925
+  },
+  {
+    "title":"What is Click to Pay?",
+    "topic_id":35,
+    "llm_label":"Managing Click to Pay cards",
+    "probability":0.3747
+  },
+  {
+    "title":"Why is my card added to Click to Pay not shown at checkout?",
+    "topic_id":35,
+    "llm_label":"Managing Click to Pay cards",
+    "probability":1.0
+  },
+  {
+    "title":"Declined card payment isn't visible",
+    "topic_id":58,
+    "llm_label":"Card payment declined",
+    "probability":1.0
+  },
+  {
+    "title":"My card payment was declined by the security system",
+    "topic_id":68,
+    "llm_label":"Blocking and unblocking payments",
+    "probability":0.0
+  },
+  {
+    "title":"What is the location-based security feature?",
+    "topic_id":65,
+    "llm_label":"Account security and fraud protection",
+    "probability":1.0
+  },
+  {
+    "title":"My card payment was declined",
+    "topic_id":58,
+    "llm_label":"Card payment declined",
+    "probability":1.0
+  },
+  {
+    "title":"Why has my card payment been reverted?",
+    "topic_id":38,
+    "llm_label":"Pending and delayed card payments",
+    "probability":0.9772
+  },
+  {
+    "title":"Report a card payment as a scam or fraud",
+    "topic_id":62,
+    "llm_label":"Report fraudulent transactions",
+    "probability":1.0
+  },
+  {
+    "title":"Card security settings",
+    "topic_id":33,
+    "llm_label":"Apple Pay and Card Security",
+    "probability":1.0
+  },
+  {
+    "title":"Freeze a card",
+    "topic_id":62,
+    "llm_label":"Report fraudulent transactions",
+    "probability":0.0
+  },
+  {
+    "title":"How to cancel a dispute",
+    "topic_id":23,
+    "llm_label":"Canceling transfers and payment links",
+    "probability":0.8647
+  },
+  {
+    "title":"Dispute a card payment",
+    "topic_id":67,
+    "llm_label":"Dispute and refund status",
+    "probability":0.0
+  },
+  {
+    "title":"Dispute process and timelines",
+    "topic_id":67,
+    "llm_label":"Dispute and refund status",
+    "probability":1.0
+  },
+  {
+    "title":"Update on my chargeback case",
+    "topic_id":67,
+    "llm_label":"Dispute and refund status",
+    "probability":1.0
+  },
+  {
+    "title":"Problems with a refund",
+    "topic_id":67,
+    "llm_label":"Dispute and refund status",
+    "probability":1.0
+  },
+  {
+    "title":"Revolut Chrome Extension",
+    "topic_id":41,
+    "llm_label":"Virtual card usage and limits",
+    "probability":0.0
+  },
+  {
+    "title":"How to withdraw a foreign currency",
+    "topic_id":18,
+    "llm_label":"18_limits_withdrawal_atm_fees",
+    "probability":0.0
+  },
+  {
+    "title":"Limits for using my card abroad",
+    "topic_id":18,
+    "llm_label":"18_limits_withdrawal_atm_fees",
+    "probability":0.7928
+  },
+  {
+    "title":"Tips for spending in a foreign currency",
+    "topic_id":42,
+    "llm_label":"Currency accounts and exchange rates",
+    "probability":0.0
+  },
+  {
+    "title":"What currency will I be charged in?",
+    "topic_id":42,
+    "llm_label":"Currency accounts and exchange rates",
+    "probability":0.5703
+  },
+  {
+    "title":"Manage subscription payments to merchants",
+    "topic_id":68,
+    "llm_label":"Blocking and unblocking payments",
+    "probability":1.0
+  },
+  {
+    "title":"Report a fraudulent ATM withdrawal",
+    "topic_id":62,
+    "llm_label":"Report fraudulent transactions",
+    "probability":1.0
+  },
+  {
+    "title":"When does my ATM withdrawal limit reset?",
+    "topic_id":18,
+    "llm_label":"18_limits_withdrawal_atm_fees",
+    "probability":0.746
+  },
+  {
+    "title":"Why is my ATM withdrawal pending?",
+    "topic_id":19,
+    "llm_label":"Transfer status and tracking",
+    "probability":0.5145
+  },
+  {
+    "title":"Why was my ATM withdrawal declined?",
+    "topic_id":58,
+    "llm_label":"Card payment declined",
+    "probability":0.0
+  },
+  {
+    "title":"Activate a physical card",
+    "topic_id":44,
+    "llm_label":"Replace reactivate or fix cards",
+    "probability":0.0
+  },
+  {
+    "title":"Reactivate a card",
+    "topic_id":44,
+    "llm_label":"Replace reactivate or fix cards",
+    "probability":0.5689
+  },
+  {
+    "title":"I can't add my card to Apple Pay",
+    "topic_id":33,
+    "llm_label":"Apple Pay and Card Security",
+    "probability":1.0
+  },
+  {
+    "title":"My card was stolen. What should I do?",
+    "topic_id":44,
+    "llm_label":"Replace reactivate or fix cards",
+    "probability":1.0
+  },
+  {
+    "title":"The name on my card is incorrect",
+    "topic_id":5,
+    "llm_label":"Lost phone number login",
+    "probability":0.586
+  },
+  {
+    "title":"Why is my Apple Pay card number different from my Revolut's?",
+    "topic_id":33,
+    "llm_label":"Apple Pay and Card Security",
+    "probability":1.0
+  },
+  {
+    "title":"My card has been swallowed by an ATM",
+    "topic_id":62,
+    "llm_label":"Report fraudulent transactions",
+    "probability":0.8999
+  },
+  {
+    "title":"Why aren’t my contactless payments working?",
+    "topic_id":44,
+    "llm_label":"Replace reactivate or fix cards",
+    "probability":0.0
+  },
+  {
+    "title":"My single-use virtual card isn't working",
+    "topic_id":41,
+    "llm_label":"Virtual card usage and limits",
+    "probability":1.0
+  },
+  {
+    "title":"My physical card isn't working",
+    "topic_id":44,
+    "llm_label":"Replace reactivate or fix cards",
+    "probability":0.5689
+  },
+  {
+    "title":"What should I do if my card is expiring soon?",
+    "topic_id":44,
+    "llm_label":"Replace reactivate or fix cards",
+    "probability":1.0
+  },
+  {
+    "title":"Can I cancel or edit a card order?",
+    "topic_id":13,
+    "llm_label":"Ordering a physical card",
+    "probability":0.5769
+  },
+  {
+    "title":"Can I choose between Mastercard and Visa?",
+    "topic_id":13,
+    "llm_label":"Ordering a physical card",
+    "probability":1.0
+  },
+  {
+    "title":"Maximum active cards",
+    "topic_id":41,
+    "llm_label":"Virtual card usage and limits",
+    "probability":0.297
+  },
+  {
+    "title":"What are the fees for ordering a card?",
+    "topic_id":13,
+    "llm_label":"Ordering a physical card",
+    "probability":0.8326
+  },
+  {
+    "title":"Creating a virtual card",
+    "topic_id":41,
+    "llm_label":"Virtual card usage and limits",
+    "probability":0.4957
+  },
+  {
+    "title":"I ordered a card and it didn't arrive",
+    "topic_id":13,
+    "llm_label":"Ordering a physical card",
+    "probability":0.9231
+  },
+  {
+    "title":"Card customisation",
+    "topic_id":13,
+    "llm_label":"Ordering a physical card",
+    "probability":1.0
+  },
+  {
+    "title":"How does the Clear Sky debit card support Ukraine?",
+    "topic_id":59,
+    "llm_label":"Spare change round ups",
+    "probability":0.0
+  },
+  {
+    "title":"Order a physical card",
+    "topic_id":13,
+    "llm_label":"Ordering a physical card",
+    "probability":0.9893
+  },
+  {
+    "title":"How do I get the Clear Sky debit card?",
+    "topic_id":13,
+    "llm_label":"Ordering a physical card",
+    "probability":0.0
+  },
+  {
+    "title":"What is a special edition card?",
+    "topic_id":13,
+    "llm_label":"Ordering a physical card",
+    "probability":0.9231
+  },
+  {
+    "title":"What card brands and types can I get?",
+    "topic_id":4,
+    "llm_label":"Supported currencies and cards",
+    "probability":0.8472
+  },
+  {
+    "title":"Finding the card PIN",
+    "topic_id":33,
+    "llm_label":"Apple Pay and Card Security",
+    "probability":0.9288
+  },
+  {
+    "title":"Linking an existing card",
+    "topic_id":35,
+    "llm_label":"Managing Click to Pay cards",
+    "probability":1.0
+  },
+  {
+    "title":"Can I order my card to a different address?",
+    "topic_id":13,
+    "llm_label":"Ordering a physical card",
+    "probability":1.0
+  },
+  {
+    "title":"How do I use a Revolut virtual card?",
+    "topic_id":41,
+    "llm_label":"Virtual card usage and limits",
+    "probability":1.0
+  },
+  {
+    "title":"I received a card that I had marked as undelivered",
+    "topic_id":44,
+    "llm_label":"Replace reactivate or fix cards",
+    "probability":1.0
+  },
+  {
+    "title":"I found my lost card",
+    "topic_id":44,
+    "llm_label":"Replace reactivate or fix cards",
+    "probability":1.0
+  },
+  {
+    "title":"My card has been used fraudulently",
+    "topic_id":62,
+    "llm_label":"Report fraudulent transactions",
+    "probability":1.0
+  },
+  {
+    "title":"Glossary of onboarding terms",
+    "topic_id":11,
+    "llm_label":"Exchange Traded Products",
+    "probability":1.0
+  },
+  {
+    "title":"Manage scheduled transfers",
+    "topic_id":46,
+    "llm_label":"Scheduled transfers and custom categories",
+    "probability":1.0
+  },
+  {
+    "title":"More help with a scheduled transfer",
+    "topic_id":46,
+    "llm_label":"Scheduled transfers and custom categories",
+    "probability":1.0
+  },
+  {
+    "title":"Schedule a transfer",
+    "topic_id":46,
+    "llm_label":"Scheduled transfers and custom categories",
+    "probability":1.0
+  },
+  {
+    "title":"Cash withdrawal limits and fees",
+    "topic_id":18,
+    "llm_label":"18_limits_withdrawal_atm_fees",
+    "probability":1.0
+  },
+  {
+    "title":"Getting started with Pet Insurance",
+    "topic_id":25,
+    "llm_label":"Pet insurance policy management",
+    "probability":1.0
+  },
+  {
+    "title":"How do I make a protection insurance claim?",
+    "topic_id":15,
+    "llm_label":"Purchase insurance coverage",
+    "probability":1.0
+  },
+  {
+    "title":"What's the excess for purchase insurance claims?",
+    "topic_id":15,
+    "llm_label":"Purchase insurance coverage",
+    "probability":1.0
+  },
+  {
+    "title":"Submitting documents for a purchase insurance claim",
+    "topic_id":15,
+    "llm_label":"Purchase insurance coverage",
+    "probability":1.0
+  },
+  {
+    "title":"Is my mobile device covered by Revolut purchase protection?",
+    "topic_id":15,
+    "llm_label":"Purchase insurance coverage",
+    "probability":1.0
+  },
+  {
+    "title":"Getting started with purchase insurance",
+    "topic_id":15,
+    "llm_label":"Purchase insurance coverage",
+    "probability":1.0
+  },
+  {
+    "title":"What's not covered under purchase insurance?",
+    "topic_id":15,
+    "llm_label":"Purchase insurance coverage",
+    "probability":0.9484
+  },
+  {
+    "title":"What items are eligible for purchase insurance?",
+    "topic_id":15,
+    "llm_label":"Purchase insurance coverage",
+    "probability":0.9634
+  },
+  {
+    "title":"Getting an update on an everyday protection claim",
+    "topic_id":15,
+    "llm_label":"Purchase insurance coverage",
+    "probability":1.0
+  },
+  {
+    "title":"Who provides Revolut's everyday protection insurance?",
+    "topic_id":15,
+    "llm_label":"Purchase insurance coverage",
+    "probability":1.0
+  },
+  {
+    "title":"Purchase protection coverage",
+    "topic_id":15,
+    "llm_label":"Purchase insurance coverage",
+    "probability":1.0
+  },
+  {
+    "title":"Refund protection coverage",
+    "topic_id":15,
+    "llm_label":"Purchase insurance coverage",
+    "probability":1.0
+  },
+  {
+    "title":"Event ticket cancellation protection coverage",
+    "topic_id":14,
+    "llm_label":"Cancel for any reason protection",
+    "probability":1.0
+  },
+  {
+    "title":"Getting started with travel insurance",
+    "topic_id":1,
+    "llm_label":"Revolut travel insurance coverage",
+    "probability":1.0
+  },
+  {
+    "title":"What is the excess for travel insurance claims?",
+    "topic_id":1,
+    "llm_label":"Revolut travel insurance coverage",
+    "probability":1.0
+  },
+  {
+    "title":"Trips covered by travel insurance",
+    "topic_id":1,
+    "llm_label":"Revolut travel insurance coverage",
+    "probability":1.0
+  },
+  {
+    "title":"Why is my travel insurance coverage ending?",
+    "topic_id":1,
+    "llm_label":"Revolut travel insurance coverage",
+    "probability":1.0
+  },
+  {
+    "title":"Submitting documents for a travel insurance claim",
+    "topic_id":1,
+    "llm_label":"Revolut travel insurance coverage",
+    "probability":0.6608
+  },
+  {
+    "title":"How can I view my travel insurance policy documents?",
+    "topic_id":25,
+    "llm_label":"Pet insurance policy management",
+    "probability":0.2856
+  },
+  {
+    "title":"How do I get an update on my existing claim?",
+    "topic_id":1,
+    "llm_label":"Revolut travel insurance coverage",
+    "probability":0.7031
+  },
+  {
+    "title":"How do I make a travel insurance claim?",
+    "topic_id":1,
+    "llm_label":"Revolut travel insurance coverage",
+    "probability":0.7031
+  },
+  {
+    "title":"Emergency medical assistance abroad",
+    "topic_id":1,
+    "llm_label":"Revolut travel insurance coverage",
+    "probability":1.0
+  },
+  {
+    "title":"Cover for car hire excess",
+    "topic_id":1,
+    "llm_label":"Revolut travel insurance coverage",
+    "probability":1.0
+  },
+  {
+    "title":"Cover for delayed trips",
+    "topic_id":1,
+    "llm_label":"Revolut travel insurance coverage",
+    "probability":0.9803
+  },
+  {
+    "title":"Cover for damaged, lost, or delayed baggage",
+    "topic_id":1,
+    "llm_label":"Revolut travel insurance coverage",
+    "probability":1.0
+  },
+  {
+    "title":"Cover for medical expenses abroad",
+    "topic_id":1,
+    "llm_label":"Revolut travel insurance coverage",
+    "probability":1.0
+  },
+  {
+    "title":"Cover for sports and activities",
+    "topic_id":1,
+    "llm_label":"Revolut travel insurance coverage",
+    "probability":1.0
+  },
+  {
+    "title":"Who is covered by travel insurance?",
+    "topic_id":1,
+    "llm_label":"Revolut travel insurance coverage",
+    "probability":1.0
+  },
+  {
+    "title":"Who is Revolut's travel insurance provider?",
+    "topic_id":1,
+    "llm_label":"Revolut travel insurance coverage",
+    "probability":1.0
+  },
+  {
+    "title":"How do I cancel my Pet Insurance policy?",
+    "topic_id":25,
+    "llm_label":"Pet insurance policy management",
+    "probability":1.0
+  },
+  {
+    "title":"How to make a Pet Insurance claim",
+    "topic_id":25,
+    "llm_label":"Pet insurance policy management",
+    "probability":1.0
+  },
+  {
+    "title":"Pet Insurance payments and renewals",
+    "topic_id":25,
+    "llm_label":"Pet insurance policy management",
+    "probability":0.9274
+  },
+  {
+    "title":"How do I complain about my pet insurance?",
+    "topic_id":25,
+    "llm_label":"Pet insurance policy management",
+    "probability":0.3126
+  },
+  {
+    "title":"How can I view or manage my Revolut Pet Insurance policy?",
+    "topic_id":25,
+    "llm_label":"Pet insurance policy management",
+    "probability":0.6874
+  },
+  {
+    "title":"Free 24\/7 FirstVet Video Consultations",
+    "topic_id":25,
+    "llm_label":"Pet insurance policy management",
+    "probability":0.492
+  },
+  {
+    "title":"Who are Revolut Pet Insurance?",
+    "topic_id":25,
+    "llm_label":"Pet insurance policy management",
+    "probability":0.3161
+  },
+  {
+    "title":"What are the main pet insurance policy conditions I should be aware of?",
+    "topic_id":25,
+    "llm_label":"Pet insurance policy management",
+    "probability":0.7014
+  },
+  {
+    "title":"Can I cancel an Airport Fast Track pass? ",
+    "topic_id":36,
+    "llm_label":"Airport lounge and fast track",
+    "probability":0.6744
+  },
+  {
+    "title":"How do I purchase an Airport Fast Track pass?",
+    "topic_id":36,
+    "llm_label":"Airport lounge and fast track",
+    "probability":0.7058
+  },
+  {
+    "title":"How do I use my airport fast track pass?",
+    "topic_id":36,
+    "llm_label":"Airport lounge and fast track",
+    "probability":0.6286
+  },
+  {
+    "title":"Reasons you can trust Revolut",
+    "topic_id":54,
+    "llm_label":"Revolut service providers and regulation",
+    "probability":0.8297
+  },
+  {
+    "title":"Can I contact Revolut using a Power of Attorney?",
+    "topic_id":45,
+    "llm_label":"Contacting support and complaints",
+    "probability":0.0
+  },
+  {
+    "title":"Media enquiries",
+    "topic_id":45,
+    "llm_label":"Contacting support and complaints",
+    "probability":1.0
+  },
+  {
+    "title":"Revolut Business",
+    "topic_id":48,
+    "llm_label":"Revolut Pro account features",
+    "probability":0.0
+  },
+  {
+    "title":"Work at Revolut",
+    "topic_id":24,
+    "llm_label":"Recognizing scam red flags",
+    "probability":0.0
+  },
+  {
+    "title":"Difference between limited and full access to the web app",
+    "topic_id":5,
+    "llm_label":"Lost phone number login",
+    "probability":0.0
+  },
+  {
+    "title":"Does Revolut offer services in Russia?",
+    "topic_id":4,
+    "llm_label":"Supported currencies and cards",
+    "probability":0.9544
+  },
+  {
+    "title":"Reporting vulnerable circumstances to Revolut",
+    "topic_id":29,
+    "llm_label":"Reporting vulnerable circumstances",
+    "probability":0.2283
+  },
+  {
+    "title":"How do I share feedback with Revolut?",
+    "topic_id":45,
+    "llm_label":"Contacting support and complaints",
+    "probability":0.8564
+  },
+  {
+    "title":"I lost access to a device my passkey is stored on",
+    "topic_id":5,
+    "llm_label":"Lost phone number login",
+    "probability":1.0
+  },
+  {
+    "title":"How can I file a complaint?",
+    "topic_id":45,
+    "llm_label":"Contacting support and complaints",
+    "probability":1.0
+  },
+  {
+    "title":"Learn about my rights when making payments in Europe",
+    "topic_id":4,
+    "llm_label":"Supported currencies and cards",
+    "probability":1.0
+  },
+  {
+    "title":"Public Figure Check - More Information",
+    "topic_id":17,
+    "llm_label":"Tax and national identification",
+    "probability":0.1559
+  },
+  {
+    "title":"What is my tax residence?",
+    "topic_id":17,
+    "llm_label":"Tax and national identification",
+    "probability":1.0
+  },
+  {
+    "title":"What happens if the Revolut account holder passes away?",
+    "topic_id":61,
+    "llm_label":"Closed restricted or deceased accounts",
+    "probability":1.0
+  },
+  {
+    "title":"Which Revolut companies provide me with services?",
+    "topic_id":54,
+    "llm_label":"Revolut service providers and regulation",
+    "probability":0.7435
+  },
+  {
+    "title":"How can I improve my financial health?",
+    "topic_id":29,
+    "llm_label":"Reporting vulnerable circumstances",
+    "probability":0.408
+  },
+  {
+    "title":"How can I share sensitive information with Revolut?",
+    "topic_id":29,
+    "llm_label":"Reporting vulnerable circumstances",
+    "probability":0.2059
+  },
+  {
+    "title":"Support if you are experiencing financial difficulties",
+    "topic_id":29,
+    "llm_label":"Reporting vulnerable circumstances",
+    "probability":1.0
+  },
+  {
+    "title":"What gambling support is available?",
+    "topic_id":29,
+    "llm_label":"Reporting vulnerable circumstances",
+    "probability":1.0
+  },
+  {
+    "title":"Where can I get help and advice on financial abuse?",
+    "topic_id":29,
+    "llm_label":"Reporting vulnerable circumstances",
+    "probability":0.6838
+  },
+  {
+    "title":"Where can I get help if I'm worried about my mental health?",
+    "topic_id":29,
+    "llm_label":"Reporting vulnerable circumstances",
+    "probability":1.0
+  },
+  {
+    "title":"When will Revolut credit be available in my country?",
+    "topic_id":4,
+    "llm_label":"Supported currencies and cards",
+    "probability":1.0
+  },
+  {
+    "title":"What is Revolut Pro and is it free?",
+    "topic_id":48,
+    "llm_label":"Revolut Pro account features",
+    "probability":1.0
+  },
+  {
+    "title":"Cancel a transaction on the Revolut Terminal",
+    "topic_id":23,
+    "llm_label":"Canceling transfers and payment links",
+    "probability":0.5397
+  },
+  {
+    "title":"Cards and contactless payments with Revolut Terminals",
+    "topic_id":12,
+    "llm_label":"Accepting payments with Revolut",
+    "probability":0.8316
+  },
+  {
+    "title":"Failed payments on the Revolut Terminal",
+    "topic_id":58,
+    "llm_label":"Card payment declined",
+    "probability":1.0
+  },
+  {
+    "title":"How do I order a Revolut Terminal?",
+    "topic_id":48,
+    "llm_label":"Revolut Pro account features",
+    "probability":0.0
+  },
+  {
+    "title":"How do I log in to my Revolut Terminal?",
+    "topic_id":5,
+    "llm_label":"Lost phone number login",
+    "probability":0.0
+  },
+  {
+    "title":"eSIM on Revolut Terminals",
+    "topic_id":26,
+    "llm_label":"eSIM data plan management",
+    "probability":0.6414
+  },
+  {
+    "title":"I'm having trouble using my Revolut Terminal",
+    "topic_id":58,
+    "llm_label":"Card payment declined",
+    "probability":0.0
+  },
+  {
+    "title":"Sales using a Revolut Pro product catalogue",
+    "topic_id":46,
+    "llm_label":"Scheduled transfers and custom categories",
+    "probability":0.0
+  },
+  {
+    "title":"Edit the time on my Revolut Terminal",
+    "topic_id":30,
+    "llm_label":"Device software and security updates",
+    "probability":0.0
+  },
+  {
+    "title":"Warranty on Revolut Terminals",
+    "topic_id":12,
+    "llm_label":"Accepting payments with Revolut",
+    "probability":0.0
+  },
+  {
+    "title":"What are Revolut Terminals?",
+    "topic_id":12,
+    "llm_label":"Accepting payments with Revolut",
+    "probability":1.0
+  },
+  {
+    "title":"When will I receive my Revolut Terminal?",
+    "topic_id":13,
+    "llm_label":"Ordering a physical card",
+    "probability":0.0
+  },
+  {
+    "title":"Failed payment on Tap to Pay on iPhone",
+    "topic_id":12,
+    "llm_label":"Accepting payments with Revolut",
+    "probability":0.0
+  },
+  {
+    "title":"Can I accept payments with Revolut Pro?",
+    "topic_id":12,
+    "llm_label":"Accepting payments with Revolut",
+    "probability":1.0
+  },
+  {
+    "title":"How much does it cost to accept payments with Revolut Pro?",
+    "topic_id":12,
+    "llm_label":"Accepting payments with Revolut",
+    "probability":1.0
+  },
+  {
+    "title":"What are Payment Links and how do I use them?",
+    "topic_id":12,
+    "llm_label":"Accepting payments with Revolut",
+    "probability":1.0
+  },
+  {
+    "title":"When do payments arrive in my Pro account?",
+    "topic_id":19,
+    "llm_label":"Transfer status and tracking",
+    "probability":0.6494
+  },
+  {
+    "title":"Install the Shopify plugin for Revolut Pro",
+    "topic_id":48,
+    "llm_label":"Revolut Pro account features",
+    "probability":0.0
+  },
+  {
+    "title":"Revolut Pro invoices",
+    "topic_id":12,
+    "llm_label":"Accepting payments with Revolut",
+    "probability":0.0
+  },
+  {
+    "title":"Warranty on the Revolut Reader",
+    "topic_id":12,
+    "llm_label":"Accepting payments with Revolut",
+    "probability":0.0
+  },
+  {
+    "title":"What is Revolut Reader and how do I use it?",
+    "topic_id":12,
+    "llm_label":"Accepting payments with Revolut",
+    "probability":1.0
+  },
+  {
+    "title":"Using Tap to Pay on iPhone to take payments",
+    "topic_id":12,
+    "llm_label":"Accepting payments with Revolut",
+    "probability":0.8316
+  },
+  {
+    "title":"Why should I accept payments with Revolut Pro?",
+    "topic_id":12,
+    "llm_label":"Accepting payments with Revolut",
+    "probability":1.0
+  },
+  {
+    "title":"How do I add funds to my Pro account?",
+    "topic_id":7,
+    "llm_label":"Adding money via bank transfer",
+    "probability":0.698
+  },
+  {
+    "title":"How to close a Revolut Pro account",
+    "topic_id":22,
+    "llm_label":"Joint account management",
+    "probability":0.859
+  },
+  {
+    "title":"Difference between Revolut Pro and Revolut Business",
+    "topic_id":48,
+    "llm_label":"Revolut Pro account features",
+    "probability":1.0
+  },
+  {
+    "title":"How to set up Direct Debits in Pro",
+    "topic_id":46,
+    "llm_label":"Scheduled transfers and custom categories",
+    "probability":0.0
+  },
+  {
+    "title":"What features are available with Revolut Pro?",
+    "topic_id":48,
+    "llm_label":"Revolut Pro account features",
+    "probability":1.0
+  },
+  {
+    "title":"How do I move money out of my Revolut Pro account?",
+    "topic_id":7,
+    "llm_label":"Adding money via bank transfer",
+    "probability":0.6433
+  },
+  {
+    "title":"Order a Revolut Pro card",
+    "topic_id":13,
+    "llm_label":"Ordering a physical card",
+    "probability":0.8724
+  },
+  {
+    "title":"How does Revolut Pro cashback work and how can I boost it?",
+    "topic_id":48,
+    "llm_label":"Revolut Pro account features",
+    "probability":1.0
+  },
+  {
+    "title":"Pro account under review or payments not working",
+    "topic_id":48,
+    "llm_label":"Revolut Pro account features",
+    "probability":0.0
+  },
+  {
+    "title":"How can I redeem my Pro Perks offers?",
+    "topic_id":9,
+    "llm_label":"RevPoints earning and redemption",
+    "probability":1.0
+  },
+  {
+    "title":"What is Pro Perks?",
+    "topic_id":48,
+    "llm_label":"Revolut Pro account features",
+    "probability":0.6273
+  },
+  {
+    "title":"What are Pro Pockets?",
+    "topic_id":27,
+    "llm_label":"Group Pockets",
+    "probability":0.3335
+  },
+  {
+    "title":"Why was my document not accepted for Revolut Pro?",
+    "topic_id":48,
+    "llm_label":"Revolut Pro account features",
+    "probability":0.0
+  },
+  {
+    "title":"Why was my URL not accepted for Revolut Pro?",
+    "topic_id":48,
+    "llm_label":"Revolut Pro account features",
+    "probability":0.0
+  },
+  {
+    "title":"Where can I find my Revolut Pro account in-app?",
+    "topic_id":48,
+    "llm_label":"Revolut Pro account features",
+    "probability":0.0
+  },
+  {
+    "title":"Who can use Revolut Pro and how do I get started?",
+    "topic_id":48,
+    "llm_label":"Revolut Pro account features",
+    "probability":0.7239
+  },
+  {
+    "title":"Accessing the Retail Web App",
+    "topic_id":5,
+    "llm_label":"Lost phone number login",
+    "probability":1.0
+  },
+  {
+    "title":"What features are supported on the Web App?",
+    "topic_id":3,
+    "llm_label":"Crypto account setup and security",
+    "probability":0.0
+  },
+  {
+    "title":"Security and data privacy",
+    "topic_id":63,
+    "llm_label":"Personal data privacy and retention",
+    "probability":1.0
+  },
+  {
+    "title":"How do I close my account?",
+    "topic_id":22,
+    "llm_label":"Joint account management",
+    "probability":0.8278
+  },
+  {
+    "title":"Getting started with AIR",
+    "topic_id":43,
+    "llm_label":"Financial analytics dashboard",
+    "probability":0.0
+  },
+  {
+    "title":"Getting started with Revolut",
+    "topic_id":22,
+    "llm_label":"Joint account management",
+    "probability":0.0
+  },
+  {
+    "title":"How to contact Revolut Support",
+    "topic_id":45,
+    "llm_label":"Contacting support and complaints",
+    "probability":0.7089
+  },
+  {
+    "title":"Joint account card payments",
+    "topic_id":22,
+    "llm_label":"Joint account management",
+    "probability":0.5518
+  },
+  {
+    "title":"Managing joint account ownership",
+    "topic_id":22,
+    "llm_label":"Joint account management",
+    "probability":0.8092
+  },
+  {
+    "title":"I want to close my Joint account",
+    "topic_id":22,
+    "llm_label":"Joint account management",
+    "probability":1.0
+  },
+  {
+    "title":"Your Joint account statement",
+    "topic_id":22,
+    "llm_label":"Joint account management",
+    "probability":1.0
+  },
+  {
+    "title":"Adding money to a Joint account",
+    "topic_id":7,
+    "llm_label":"Adding money via bank transfer",
+    "probability":0.6433
+  },
+  {
+    "title":"Setting up a Joint account",
+    "topic_id":22,
+    "llm_label":"Joint account management",
+    "probability":0.3792
+  },
+  {
+    "title":"Joint account transfers",
+    "topic_id":7,
+    "llm_label":"Adding money via bank transfer",
+    "probability":0.6433
+  },
+  {
+    "title":"Order a Joint account card",
+    "topic_id":13,
+    "llm_label":"Ordering a physical card",
+    "probability":0.9231
+  },
+  {
+    "title":"Getting started with Joint Savings",
+    "topic_id":22,
+    "llm_label":"Joint account management",
+    "probability":0.0
+  },
+  {
+    "title":"What happens if my joint account balance goes negative?",
+    "topic_id":38,
+    "llm_label":"Pending and delayed card payments",
+    "probability":0.6511
+  },
+  {
+    "title":"Revolut closed my joint account",
+    "topic_id":22,
+    "llm_label":"Joint account management",
+    "probability":0.6201
+  },
+  {
+    "title":"Difficulty logging in",
+    "topic_id":5,
+    "llm_label":"Lost phone number login",
+    "probability":0.9101
+  },
+  {
+    "title":"Change passcode",
+    "topic_id":5,
+    "llm_label":"Lost phone number login",
+    "probability":1.0
+  },
+  {
+    "title":"I lost access to my passkey",
+    "topic_id":5,
+    "llm_label":"Lost phone number login",
+    "probability":1.0
+  },
+  {
+    "title":"Duplicate account",
+    "topic_id":22,
+    "llm_label":"Joint account management",
+    "probability":0.4064
+  },
+  {
+    "title":"Log in with a new phone number",
+    "topic_id":5,
+    "llm_label":"Lost phone number login",
+    "probability":1.0
+  },
+  {
+    "title":"Lost or stolen device",
+    "topic_id":5,
+    "llm_label":"Lost phone number login",
+    "probability":1.0
+  },
+  {
+    "title":"Sign in with face ID or fingerprint",
+    "topic_id":5,
+    "llm_label":"Lost phone number login",
+    "probability":1.0
+  },
+  {
+    "title":"What are passkeys?",
+    "topic_id":5,
+    "llm_label":"Lost phone number login",
+    "probability":1.0
+  },
+  {
+    "title":"Download your account confirmation",
+    "topic_id":16,
+    "llm_label":"Download account statements",
+    "probability":0.4023
+  },
+  {
+    "title":"Download an account statement for a specific currency",
+    "topic_id":16,
+    "llm_label":"Download account statements",
+    "probability":0.6429
+  },
+  {
+    "title":"How to download a card confirmation document",
+    "topic_id":16,
+    "llm_label":"Download account statements",
+    "probability":0.2689
+  },
+  {
+    "title":"Download a cryptocurrency statement",
+    "topic_id":16,
+    "llm_label":"Download account statements",
+    "probability":0.5921
+  },
+  {
+    "title":"Documents for a closed account ",
+    "topic_id":5,
+    "llm_label":"Lost phone number login",
+    "probability":0.0
+  },
+  {
+    "title":"Get a Pockets statement",
+    "topic_id":27,
+    "llm_label":"Group Pockets",
+    "probability":0.5412
+  },
+  {
+    "title":"Download transaction or top-up statement",
+    "topic_id":16,
+    "llm_label":"Download account statements",
+    "probability":1.0
+  },
+  {
+    "title":"Download statement of fees",
+    "topic_id":16,
+    "llm_label":"Download account statements",
+    "probability":1.0
+  },
+  {
+    "title":"How to download a subject access request document",
+    "topic_id":16,
+    "llm_label":"Download account statements",
+    "probability":0.3073
+  },
+  {
+    "title":"How can I download trading statements and reports?",
+    "topic_id":16,
+    "llm_label":"Download account statements",
+    "probability":1.0
+  },
+  {
+    "title":"Why are my statement balance and in-app balance different?",
+    "topic_id":16,
+    "llm_label":"Download account statements",
+    "probability":0.0
+  },
+  {
+    "title":"What is the consolidated statement?",
+    "topic_id":16,
+    "llm_label":"Download account statements",
+    "probability":1.0
+  },
+  {
+    "title":"Cancelling your scheduled plan downgrade",
+    "topic_id":57,
+    "llm_label":"Downgrading paid plans",
+    "probability":1.0
+  },
+  {
+    "title":"Downgrading your paid plan",
+    "topic_id":57,
+    "llm_label":"Downgrading paid plans",
+    "probability":1.0
+  },
+  {
+    "title":"Paid plan downgrade fees ",
+    "topic_id":57,
+    "llm_label":"Downgrading paid plans",
+    "probability":1.0
+  },
+  {
+    "title":"Changing your paid plan billing date",
+    "topic_id":37,
+    "llm_label":"Plan billing and payments",
+    "probability":0.8954
+  },
+  {
+    "title":"Managing your paid plan billing",
+    "topic_id":37,
+    "llm_label":"Plan billing and payments",
+    "probability":1.0
+  },
+  {
+    "title":"Pay for your missed plan payment",
+    "topic_id":37,
+    "llm_label":"Plan billing and payments",
+    "probability":0.8209
+  },
+  {
+    "title":"Your paid plan subscription end date",
+    "topic_id":57,
+    "llm_label":"Downgrading paid plans",
+    "probability":0.9469
+  },
+  {
+    "title":"Next payment date for your paid plan",
+    "topic_id":37,
+    "llm_label":"Plan billing and payments",
+    "probability":1.0
+  },
+  {
+    "title":"Paid plan payment status",
+    "topic_id":37,
+    "llm_label":"Plan billing and payments",
+    "probability":1.0
+  },
+  {
+    "title":"Chess.com",
+    "topic_id":6,
+    "llm_label":"Accessing plan partner subscriptions",
+    "probability":1.0
+  },
+  {
+    "title":"ClassPass",
+    "topic_id":6,
+    "llm_label":"Accessing plan partner subscriptions",
+    "probability":0.5486
+  },
+  {
+    "title":"Financial Times",
+    "topic_id":6,
+    "llm_label":"Accessing plan partner subscriptions",
+    "probability":0.937
+  },
+  {
+    "title":"Freeletics",
+    "topic_id":6,
+    "llm_label":"Accessing plan partner subscriptions",
+    "probability":0.8466
+  },
+  {
+    "title":"Headspace",
+    "topic_id":6,
+    "llm_label":"Accessing plan partner subscriptions",
+    "probability":1.0
+  },
+  {
+    "title":"Headway",
+    "topic_id":6,
+    "llm_label":"Accessing plan partner subscriptions",
+    "probability":0.369
+  },
+  {
+    "title":"MasterClass",
+    "topic_id":6,
+    "llm_label":"Accessing plan partner subscriptions",
+    "probability":0.2417
+  },
+  {
+    "title":"NordVPN",
+    "topic_id":6,
+    "llm_label":"Accessing plan partner subscriptions",
+    "probability":0.1998
+  },
+  {
+    "title":"Perplexity",
+    "topic_id":6,
+    "llm_label":"Accessing plan partner subscriptions",
+    "probability":0.2053
+  },
+  {
+    "title":"Picsart",
+    "topic_id":6,
+    "llm_label":"Accessing plan partner subscriptions",
+    "probability":1.0
+  },
+  {
+    "title":"How do I access a partner benefit?",
+    "topic_id":6,
+    "llm_label":"Accessing plan partner subscriptions",
+    "probability":0.0
+  },
+  {
+    "title":"Laundryheap",
+    "topic_id":6,
+    "llm_label":"Accessing plan partner subscriptions",
+    "probability":0.4168
+  },
+  {
+    "title":"What happens to my partner benefits if I change my plan?",
+    "topic_id":57,
+    "llm_label":"Downgrading paid plans",
+    "probability":0.0
+  },
+  {
+    "title":"What are partner benefits?",
+    "topic_id":6,
+    "llm_label":"Accessing plan partner subscriptions",
+    "probability":0.0
+  },
+  {
+    "title":"Sleep Cycle",
+    "topic_id":6,
+    "llm_label":"Accessing plan partner subscriptions",
+    "probability":0.2801
+  },
+  {
+    "title":"The Athletic",
+    "topic_id":6,
+    "llm_label":"Accessing plan partner subscriptions",
+    "probability":0.9191
+  },
+  {
+    "title":"Tinder",
+    "topic_id":6,
+    "llm_label":"Accessing plan partner subscriptions",
+    "probability":0.2707
+  },
+  {
+    "title":"Turo rewards",
+    "topic_id":6,
+    "llm_label":"Accessing plan partner subscriptions",
+    "probability":0.142
+  },
+  {
+    "title":"Uber One",
+    "topic_id":6,
+    "llm_label":"Accessing plan partner subscriptions",
+    "probability":0.7485
+  },
+  {
+    "title":"WeWork",
+    "topic_id":6,
+    "llm_label":"Accessing plan partner subscriptions",
+    "probability":0.1762
+  },
+  {
+    "title":"Discounts for loyal customers",
+    "topic_id":40,
+    "llm_label":"Gifting paid plans to friends",
+    "probability":0.4667
+  },
+  {
+    "title":"Promotional and free trials",
+    "topic_id":57,
+    "llm_label":"Downgrading paid plans",
+    "probability":1.0
+  },
+  {
+    "title":"Order a paid plan card",
+    "topic_id":13,
+    "llm_label":"Ordering a physical card",
+    "probability":0.8724
+  },
+  {
+    "title":"Metal plan",
+    "topic_id":52,
+    "llm_label":"Compare Revolut paid plans",
+    "probability":1.0
+  },
+  {
+    "title":"Plus plan",
+    "topic_id":52,
+    "llm_label":"Compare Revolut paid plans",
+    "probability":1.0
+  },
+  {
+    "title":"Premium plan",
+    "topic_id":52,
+    "llm_label":"Compare Revolut paid plans",
+    "probability":1.0
+  },
+  {
+    "title":"Standard plan",
+    "topic_id":52,
+    "llm_label":"Compare Revolut paid plans",
+    "probability":0.7707
+  },
+  {
+    "title":"Ultra plan",
+    "topic_id":52,
+    "llm_label":"Compare Revolut paid plans",
+    "probability":1.0
+  },
+  {
+    "title":"Can I reopen my closed account?",
+    "topic_id":61,
+    "llm_label":"Closed restricted or deceased accounts",
+    "probability":1.0
+  },
+  {
+    "title":"Switching languages in the app",
+    "topic_id":42,
+    "llm_label":"Currency accounts and exchange rates",
+    "probability":1.0
+  },
+  {
+    "title":"How do I manage notifications from Revolut?",
+    "topic_id":69,
+    "llm_label":"Account settings and notifications",
+    "probability":1.0
+  },
+  {
+    "title":"Trouble with mobile verification code",
+    "topic_id":5,
+    "llm_label":"Lost phone number login",
+    "probability":0.0
+  },
+  {
+    "title":"Change my address",
+    "topic_id":22,
+    "llm_label":"Joint account management",
+    "probability":0.0
+  },
+  {
+    "title":"Change my date of birth",
+    "topic_id":5,
+    "llm_label":"Lost phone number login",
+    "probability":1.0
+  },
+  {
+    "title":"Change my name",
+    "topic_id":5,
+    "llm_label":"Lost phone number login",
+    "probability":0.535
+  },
+  {
+    "title":"Change my phone number",
+    "topic_id":5,
+    "llm_label":"Lost phone number login",
+    "probability":1.0
+  },
+  {
+    "title":"Change or verify email address",
+    "topic_id":5,
+    "llm_label":"Lost phone number login",
+    "probability":0.9498
+  },
+  {
+    "title":"Change my Revtag",
+    "topic_id":69,
+    "llm_label":"Account settings and notifications",
+    "probability":0.0
+  },
+  {
+    "title":"Update my tax information",
+    "topic_id":17,
+    "llm_label":"Tax and national identification",
+    "probability":1.0
+  },
+  {
+    "title":"Source of funds",
+    "topic_id":21,
+    "llm_label":"Identity and address verification",
+    "probability":0.7196
+  },
+  {
+    "title":"Upgrade my plan",
+    "topic_id":37,
+    "llm_label":"Plan billing and payments",
+    "probability":0.8954
+  },
+  {
+    "title":"Accepted proof of address documents",
+    "topic_id":21,
+    "llm_label":"Identity and address verification",
+    "probability":0.8081
+  },
+  {
+    "title":"Documents for the source of funds verification",
+    "topic_id":21,
+    "llm_label":"Identity and address verification",
+    "probability":0.6274
+  },
+  {
+    "title":"Verify my identity",
+    "topic_id":21,
+    "llm_label":"Identity and address verification",
+    "probability":1.0
+  },
+  {
+    "title":"How do I provide proof of address?",
+    "topic_id":21,
+    "llm_label":"Identity and address verification",
+    "probability":1.0
+  },
+  {
+    "title":"I'm unable to verify my identity",
+    "topic_id":21,
+    "llm_label":"Identity and address verification",
+    "probability":1.0
+  },
+  {
+    "title":"Where you can sign up for Revolut",
+    "topic_id":4,
+    "llm_label":"Supported currencies and cards",
+    "probability":0.0
+  },
+  {
+    "title":"What is Revolut ID?",
+    "topic_id":5,
+    "llm_label":"Lost phone number login",
+    "probability":0.7172
+  },
+  {
+    "title":"Managing a Revolut – Kids & Teens account",
+    "topic_id":10,
+    "llm_label":"Kids and teens account management",
+    "probability":0.9134
+  },
+  {
+    "title":"Revolut – Kids & Teens cards",
+    "topic_id":10,
+    "llm_label":"Kids and teens account management",
+    "probability":0.236
+  },
+  {
+    "title":"Revolut – Kids & Teens Earn",
+    "topic_id":10,
+    "llm_label":"Kids and teens account management",
+    "probability":1.0
+  },
+  {
+    "title":"Revolut Kids & Teens Rewards",
+    "topic_id":10,
+    "llm_label":"Kids and teens account management",
+    "probability":1.0
+  },
+  {
+    "title":"Revolut Kids & Teens Save",
+    "topic_id":10,
+    "llm_label":"Kids and teens account management",
+    "probability":0.3337
+  },
+  {
+    "title":"Revolut – Kids & Teens payments",
+    "topic_id":10,
+    "llm_label":"Kids and teens account management",
+    "probability":0.3352
+  },
+  {
+    "title":"Add money to or withdraw from Revolut Kids & Teens account",
+    "topic_id":10,
+    "llm_label":"Kids and teens account management",
+    "probability":1.0
+  },
+  {
+    "title":"Forgotten passcode for a Kids & Teens account",
+    "topic_id":5,
+    "llm_label":"Lost phone number login",
+    "probability":1.0
+  },
+  {
+    "title":"Graduation to the main app",
+    "topic_id":10,
+    "llm_label":"Kids and teens account management",
+    "probability":0.5677
+  },
+  {
+    "title":"Kids & Teens Instant Access Savings",
+    "topic_id":10,
+    "llm_label":"Kids and teens account management",
+    "probability":0.3158
+  },
+  {
+    "title":"Open a Revolut – Kids & Teens account",
+    "topic_id":10,
+    "llm_label":"Kids and teens account management",
+    "probability":1.0
+  },
+  {
+    "title":"Revolut — Kids & Teens subscription bundles",
+    "topic_id":10,
+    "llm_label":"Kids and teens account management",
+    "probability":0.134
+  },
+  {
+    "title":"Request a Revolut – Kids & Teens virtual card",
+    "topic_id":10,
+    "llm_label":"Kids and teens account management",
+    "probability":0.411
+  },
+  {
+    "title":"Revolut – Kids & Teens card management",
+    "topic_id":10,
+    "llm_label":"Kids and teens account management",
+    "probability":0.309
+  },
+  {
+    "title":"Revolut Kids & Teens Payment Links",
+    "topic_id":10,
+    "llm_label":"Kids and teens account management",
+    "probability":0.5321
+  },
+  {
+    "title":"Revolut - Kids & Teens Referrals",
+    "topic_id":10,
+    "llm_label":"Kids and teens account management",
+    "probability":0.1646
+  },
+  {
+    "title":"Revolut - Kids & Teens statements",
+    "topic_id":10,
+    "llm_label":"Kids and teens account management",
+    "probability":0.6746
+  },
+  {
+    "title":"What if Revolut - Kids & Teens isn't available?",
+    "topic_id":4,
+    "llm_label":"Supported currencies and cards",
+    "probability":0.0
+  },
+  {
+    "title":"Is my private information safe?",
+    "topic_id":30,
+    "llm_label":"Device software and security updates",
+    "probability":0.2062
+  },
+  {
+    "title":"When to put gambling controls in place",
+    "topic_id":29,
+    "llm_label":"Reporting vulnerable circumstances",
+    "probability":0.7003
+  },
+  {
+    "title":"How does the gambling block work?",
+    "topic_id":68,
+    "llm_label":"Blocking and unblocking payments",
+    "probability":1.0
+  },
+  {
+    "title":"A refund or chargeback was sent to my closed account",
+    "topic_id":67,
+    "llm_label":"Dispute and refund status",
+    "probability":1.0
+  },
+  {
+    "title":"My account was restricted or closed",
+    "topic_id":61,
+    "llm_label":"Closed restricted or deceased accounts",
+    "probability":1.0
+  },
+  {
+    "title":"Report a fraudulent transfer",
+    "topic_id":62,
+    "llm_label":"Report fraudulent transactions",
+    "probability":0.989
+  },
+  {
+    "title":"What does Revolut use my data for?",
+    "topic_id":63,
+    "llm_label":"Personal data privacy and retention",
+    "probability":1.0
+  },
+  {
+    "title":"How long will Revolut hold my data?",
+    "topic_id":63,
+    "llm_label":"Personal data privacy and retention",
+    "probability":1.0
+  },
+  {
+    "title":"Personal data required to create a Revolut account",
+    "topic_id":63,
+    "llm_label":"Personal data privacy and retention",
+    "probability":1.0
+  },
+  {
+    "title":"Hidden balance feature",
+    "topic_id":69,
+    "llm_label":"Account settings and notifications",
+    "probability":1.0
+  },
+  {
+    "title":"Why haven't I received my Referrals reward?",
+    "topic_id":2,
+    "llm_label":"Referral purchase requirements",
+    "probability":1.0
+  },
+  {
+    "title":"Referral reward smaller than expected",
+    "topic_id":2,
+    "llm_label":"Referral purchase requirements",
+    "probability":0.548
+  },
+  {
+    "title":"How to complete all steps for Referrals reward",
+    "topic_id":2,
+    "llm_label":"Referral purchase requirements",
+    "probability":0.6447
+  },
+  {
+    "title":"How to complete 'Make purchases' step for Referrals reward",
+    "topic_id":2,
+    "llm_label":"Referral purchase requirements",
+    "probability":0.7266
+  },
+  {
+    "title":"Why hasn't my referrer received their Referrals reward?",
+    "topic_id":2,
+    "llm_label":"Referral purchase requirements",
+    "probability":1.0
+  },
+  {
+    "title":"How to add money for the Referrals reward",
+    "topic_id":2,
+    "llm_label":"Referral purchase requirements",
+    "probability":0.6531
+  },
+  {
+    "title":"Order a physical card for Referrals reward",
+    "topic_id":13,
+    "llm_label":"Ordering a physical card",
+    "probability":0.42
+  },
+  {
+    "title":"Referrals reward requirements",
+    "topic_id":2,
+    "llm_label":"Referral purchase requirements",
+    "probability":0.8808
+  },
+  {
+    "title":"Conditions for the referral campaign",
+    "topic_id":2,
+    "llm_label":"Referral purchase requirements",
+    "probability":0.9306
+  },
+  {
+    "title":"Completing the 'Make purchases' step",
+    "topic_id":2,
+    "llm_label":"Referral purchase requirements",
+    "probability":0.6931
+  },
+  {
+    "title":"Claiming special bonus offered by Revolut promotion",
+    "topic_id":2,
+    "llm_label":"Referral purchase requirements",
+    "probability":0.8994
+  },
+  {
+    "title":"Missing reward from an influencer or brand signup",
+    "topic_id":2,
+    "llm_label":"Referral purchase requirements",
+    "probability":1.0
+  },
+  {
+    "title":"Promotional cashback",
+    "topic_id":2,
+    "llm_label":"Referral purchase requirements",
+    "probability":0.9728
+  },
+  {
+    "title":"Is physical card activation necessary before the deadline?",
+    "topic_id":13,
+    "llm_label":"Ordering a physical card",
+    "probability":0.4569
+  },
+  {
+    "title":"Is a physical card required for your friend's purchases?",
+    "topic_id":2,
+    "llm_label":"Referral purchase requirements",
+    "probability":0.6747
+  },
+  {
+    "title":"How can my friend order a physical card?",
+    "topic_id":13,
+    "llm_label":"Ordering a physical card",
+    "probability":0.4973
+  },
+  {
+    "title":"How to complete 'Add Money' step",
+    "topic_id":2,
+    "llm_label":"Referral purchase requirements",
+    "probability":0.7461
+  },
+  {
+    "title":"My friend added money, but I still didn’t get the reward",
+    "topic_id":2,
+    "llm_label":"Referral purchase requirements",
+    "probability":0.7924
+  },
+  {
+    "title":"My friend hasn’t received the card. Will I get my reward?",
+    "topic_id":2,
+    "llm_label":"Referral purchase requirements",
+    "probability":0.3709
+  },
+  {
+    "title":"My friend made 3 purchases, but I didn’t get the reward",
+    "topic_id":2,
+    "llm_label":"Referral purchase requirements",
+    "probability":0.6747
+  },
+  {
+    "title":"My friend ordered a card, but I didn’t get the reward. Why?",
+    "topic_id":13,
+    "llm_label":"Ordering a physical card",
+    "probability":0.6066
+  },
+  {
+    "title":"What are the requirements for 3 purchases?",
+    "topic_id":2,
+    "llm_label":"Referral purchase requirements",
+    "probability":0.6332
+  },
+  {
+    "title":"What are the requirements to get a Referrals reward?",
+    "topic_id":2,
+    "llm_label":"Referral purchase requirements",
+    "probability":0.4763
+  },
+  {
+    "title":"Why did I receive a smaller reward for a Referral than you advertised in the app?",
+    "topic_id":2,
+    "llm_label":"Referral purchase requirements",
+    "probability":0.567
+  },
+  {
+    "title":"What is Airline Miles?",
+    "topic_id":9,
+    "llm_label":"RevPoints earning and redemption",
+    "probability":1.0
+  },
+  {
+    "title":"Linking your airline loyalty account",
+    "topic_id":9,
+    "llm_label":"RevPoints earning and redemption",
+    "probability":1.0
+  },
+  {
+    "title":"Redeeming RevPoints with Airline Miles",
+    "topic_id":9,
+    "llm_label":"RevPoints earning and redemption",
+    "probability":1.0
+  },
+  {
+    "title":"Difficulty using Airline Miles",
+    "topic_id":9,
+    "llm_label":"RevPoints earning and redemption",
+    "probability":1.0
+  },
+  {
+    "title":"Can I cancel an airport lounge pass? ",
+    "topic_id":36,
+    "llm_label":"Airport lounge and fast track",
+    "probability":1.0
+  },
+  {
+    "title":"How do I purchase an airport lounge pass?",
+    "topic_id":36,
+    "llm_label":"Airport lounge and fast track",
+    "probability":1.0
+  },
+  {
+    "title":"How do I use my airport lounge pass?",
+    "topic_id":36,
+    "llm_label":"Airport lounge and fast track",
+    "probability":1.0
+  },
+  {
+    "title":"I'm having difficulty with my airport lounge pass",
+    "topic_id":36,
+    "llm_label":"Airport lounge and fast track",
+    "probability":1.0
+  },
+  {
+    "title":"How do I donate to Ukrainian refugees?",
+    "topic_id":59,
+    "llm_label":"Spare change round ups",
+    "probability":0.3734
+  },
+  {
+    "title":"Making a donation through Revolut",
+    "topic_id":59,
+    "llm_label":"Spare change round ups",
+    "probability":1.0
+  },
+  {
+    "title":"Spare change and recurring Donations",
+    "topic_id":59,
+    "llm_label":"Spare change round ups",
+    "probability":1.0
+  },
+  {
+    "title":"Auto-renewing an eSIM data plan",
+    "topic_id":26,
+    "llm_label":"eSIM data plan management",
+    "probability":1.0
+  },
+  {
+    "title":"Can I label my eSIM for my data plan?",
+    "topic_id":26,
+    "llm_label":"eSIM data plan management",
+    "probability":0.9706
+  },
+  {
+    "title":"Difficulties with eSIM",
+    "topic_id":26,
+    "llm_label":"eSIM data plan management",
+    "probability":1.0
+  },
+  {
+    "title":"Revolut data plans",
+    "topic_id":26,
+    "llm_label":"eSIM data plan management",
+    "probability":1.0
+  },
+  {
+    "title":"Installing and activating my eSIM",
+    "topic_id":26,
+    "llm_label":"eSIM data plan management",
+    "probability":1.0
+  },
+  {
+    "title":"Managing my eSIM data plan",
+    "topic_id":26,
+    "llm_label":"eSIM data plan management",
+    "probability":0.7753
+  },
+  {
+    "title":"Supported eSIM devices",
+    "topic_id":26,
+    "llm_label":"eSIM data plan management",
+    "probability":0.3712
+  },
+  {
+    "title":"Mobile plan access and payment",
+    "topic_id":37,
+    "llm_label":"Plan billing and payments",
+    "probability":0.0
+  },
+  {
+    "title":"Cancelling or rescheduling a number transfer to Revolut",
+    "topic_id":34,
+    "llm_label":"Mobile number transfers",
+    "probability":0.0
+  },
+  {
+    "title":"Cancelling your old phone plan",
+    "topic_id":34,
+    "llm_label":"Mobile number transfers",
+    "probability":0.2628
+  },
+  {
+    "title":"Managing a mobile plan for a lost or stolen device",
+    "topic_id":5,
+    "llm_label":"Lost phone number login",
+    "probability":0.0
+  },
+  {
+    "title":"Managing a failed number transfer",
+    "topic_id":34,
+    "llm_label":"Mobile number transfers",
+    "probability":0.3863
+  },
+  {
+    "title":"Managing a number transfer to Revolut",
+    "topic_id":34,
+    "llm_label":"Mobile number transfers",
+    "probability":1.0
+  },
+  {
+    "title":"Managing mobile plans and add-ons",
+    "topic_id":26,
+    "llm_label":"eSIM data plan management",
+    "probability":0.2194
+  },
+  {
+    "title":"Understanding mobile plan numbers",
+    "topic_id":34,
+    "llm_label":"Mobile number transfers",
+    "probability":0.2388
+  },
+  {
+    "title":"Paying for my mobile plan",
+    "topic_id":37,
+    "llm_label":"Plan billing and payments",
+    "probability":0.8168
+  },
+  {
+    "title":"Mobile plan voice support",
+    "topic_id":45,
+    "llm_label":"Contacting support and complaints",
+    "probability":1.0
+  },
+  {
+    "title":"Setting up voicemail",
+    "topic_id":33,
+    "llm_label":"Apple Pay and Card Security",
+    "probability":0.8406
+  },
+  {
+    "title":"Bring your number to Revolut mobile",
+    "topic_id":34,
+    "llm_label":"Mobile number transfers",
+    "probability":1.0
+  },
+  {
+    "title":"Revolut mobile plans",
+    "topic_id":26,
+    "llm_label":"eSIM data plan management",
+    "probability":0.4087
+  },
+  {
+    "title":"Service disruptions during transfer to Revolut",
+    "topic_id":34,
+    "llm_label":"Mobile number transfers",
+    "probability":1.0
+  },
+  {
+    "title":"Mobile plan allowance and consumption",
+    "topic_id":26,
+    "llm_label":"eSIM data plan management",
+    "probability":0.0
+  },
+  {
+    "title":"Transfer your Revolut number to another provider",
+    "topic_id":34,
+    "llm_label":"Mobile number transfers",
+    "probability":1.0
+  },
+  {
+    "title":"Reporting vulnerable circumstances to Revolut",
+    "topic_id":29,
+    "llm_label":"Reporting vulnerable circumstances",
+    "probability":0.2271
+  },
+  {
+    "title":"How to redeem RevPoints for gift cards",
+    "topic_id":9,
+    "llm_label":"RevPoints earning and redemption",
+    "probability":1.0
+  },
+  {
+    "title":"Finding your gift cards",
+    "topic_id":9,
+    "llm_label":"RevPoints earning and redemption",
+    "probability":0.0
+  },
+  {
+    "title":"Shops",
+    "topic_id":9,
+    "llm_label":"RevPoints earning and redemption",
+    "probability":0.5479
+  },
+  {
+    "title":"Can I get a VAT invoice for my Stays booking?",
+    "topic_id":9,
+    "llm_label":"RevPoints earning and redemption",
+    "probability":0.434
+  },
+  {
+    "title":"How are properties sorted?",
+    "topic_id":64,
+    "llm_label":"Income Sorter",
+    "probability":1.0
+  },
+  {
+    "title":"Manage a Stays booking",
+    "topic_id":9,
+    "llm_label":"RevPoints earning and redemption",
+    "probability":0.5505
+  },
+  {
+    "title":"Make a Stays booking",
+    "topic_id":9,
+    "llm_label":"RevPoints earning and redemption",
+    "probability":0.5505
+  },
+  {
+    "title":"What does the Experiences feature offer?",
+    "topic_id":9,
+    "llm_label":"RevPoints earning and redemption",
+    "probability":0.4938
+  },
+  {
+    "title":"Purchase RevPoints in app",
+    "topic_id":9,
+    "llm_label":"RevPoints earning and redemption",
+    "probability":1.0
+  },
+  {
+    "title":"Redeem RevPoints",
+    "topic_id":9,
+    "llm_label":"RevPoints earning and redemption",
+    "probability":1.0
+  },
+  {
+    "title":"How to earn RevPoints",
+    "topic_id":9,
+    "llm_label":"RevPoints earning and redemption",
+    "probability":1.0
+  },
+  {
+    "title":"RevPoints spare change",
+    "topic_id":59,
+    "llm_label":"Spare change round ups",
+    "probability":0.0
+  },
+  {
+    "title":"What is the RevPoints loyalty program?",
+    "topic_id":9,
+    "llm_label":"RevPoints earning and redemption",
+    "probability":1.0
+  },
+  {
+    "title":"Personalise RevPoints",
+    "topic_id":9,
+    "llm_label":"RevPoints earning and redemption",
+    "probability":1.0
+  },
+  {
+    "title":"APP fraud reimbursement eligibility",
+    "topic_id":51,
+    "llm_label":"APP scam reimbursement",
+    "probability":1.0
+  },
+  {
+    "title":"Authorised Push Payment fraud reimbursement exclusions",
+    "topic_id":51,
+    "llm_label":"APP scam reimbursement",
+    "probability":1.0
+  },
+  {
+    "title":"Authorised Push Payment fraud reimbursement requirements",
+    "topic_id":51,
+    "llm_label":"APP scam reimbursement",
+    "probability":1.0
+  },
+  {
+    "title":"Authorised Push Payment fraud reimbursement",
+    "topic_id":51,
+    "llm_label":"APP scam reimbursement",
+    "probability":0.9132
+  },
+  {
+    "title":"How long will the Authorised Push Payment fraud reimbursement process take?",
+    "topic_id":51,
+    "llm_label":"APP scam reimbursement",
+    "probability":0.9477
+  },
+  {
+    "title":"Locked bootloader requirement for Android devices",
+    "topic_id":30,
+    "llm_label":"Device software and security updates",
+    "probability":1.0
+  },
+  {
+    "title":"Contacting your device manufacturer",
+    "topic_id":30,
+    "llm_label":"Device software and security updates",
+    "probability":1.0
+  },
+  {
+    "title":"Ensuring security by using the official Revolut app",
+    "topic_id":30,
+    "llm_label":"Device software and security updates",
+    "probability":0.414
+  },
+  {
+    "title":"Operating system and security updates",
+    "topic_id":30,
+    "llm_label":"Device software and security updates",
+    "probability":1.0
+  },
+  {
+    "title":"Security risks of root access",
+    "topic_id":30,
+    "llm_label":"Device software and security updates",
+    "probability":0.2775
+  },
+  {
+    "title":"Unofficial (custom) firmware",
+    "topic_id":30,
+    "llm_label":"Device software and security updates",
+    "probability":1.0
+  },
+  {
+    "title":"Why is the Revolut app no longer supported on my device?",
+    "topic_id":30,
+    "llm_label":"Device software and security updates",
+    "probability":0.4125
+  },
+  {
+    "title":"Review my information with CIFAS Marker",
+    "topic_id":70,
+    "llm_label":"Reporting fraud and suspicious activity",
+    "probability":1.0
+  },
+  {
+    "title":"Understanding the account review process",
+    "topic_id":61,
+    "llm_label":"Closed restricted or deceased accounts",
+    "probability":0.674
+  },
+  {
+    "title":"Fraud and cybercrime reporting to national authorities",
+    "topic_id":70,
+    "llm_label":"Reporting fraud and suspicious activity",
+    "probability":0.8236
+  },
+  {
+    "title":"Hidden accounts and transactions",
+    "topic_id":69,
+    "llm_label":"Account settings and notifications",
+    "probability":1.0
+  },
+  {
+    "title":"Someone wants to give you a lot of money?",
+    "topic_id":24,
+    "llm_label":"Recognizing scam red flags",
+    "probability":1.0
+  },
+  {
+    "title":"Strange small charges on your card?",
+    "topic_id":70,
+    "llm_label":"Reporting fraud and suspicious activity",
+    "probability":1.0
+  },
+  {
+    "title":"Feeling pressured or threatened?",
+    "topic_id":24,
+    "llm_label":"Recognizing scam red flags",
+    "probability":1.0
+  },
+  {
+    "title":"Urgent text from a kid or friend?",
+    "topic_id":24,
+    "llm_label":"Recognizing scam red flags",
+    "probability":1.0
+  },
+  {
+    "title":"Looking for a high return?",
+    "topic_id":24,
+    "llm_label":"Recognizing scam red flags",
+    "probability":1.0
+  },
+  {
+    "title":"Paying a bill with new bank details? ",
+    "topic_id":24,
+    "llm_label":"Recognizing scam red flags",
+    "probability":1.0
+  },
+  {
+    "title":"Have you been offered money to move funds?",
+    "topic_id":24,
+    "llm_label":"Recognizing scam red flags",
+    "probability":1.0
+  },
+  {
+    "title":"Received an unexpected link?",
+    "topic_id":24,
+    "llm_label":"Recognizing scam red flags",
+    "probability":0.0
+  },
+  {
+    "title":"Buying something online?",
+    "topic_id":24,
+    "llm_label":"Recognizing scam red flags",
+    "probability":1.0
+  },
+  {
+    "title":"Met someone new online?",
+    "topic_id":24,
+    "llm_label":"Recognizing scam red flags",
+    "probability":1.0
+  },
+  {
+    "title":"My phone suddenly lost signal",
+    "topic_id":24,
+    "llm_label":"Recognizing scam red flags",
+    "probability":0.9333
+  },
+  {
+    "title":"An urgent call out of the blue?",
+    "topic_id":24,
+    "llm_label":"Recognizing scam red flags",
+    "probability":1.0
+  },
+  {
+    "title":"How can I keep my account safe from fraud?",
+    "topic_id":70,
+    "llm_label":"Reporting fraud and suspicious activity",
+    "probability":0.0
+  },
+  {
+    "title":"How to report a suspicious call, email, link, or text",
+    "topic_id":70,
+    "llm_label":"Reporting fraud and suspicious activity",
+    "probability":1.0
+  },
+  {
+    "title":"How does Revolut keep my money safe?",
+    "topic_id":20,
+    "llm_label":"FSCS protection for accounts",
+    "probability":0.3301
+  },
+  {
+    "title":"How does Revolut protect me against fraud?",
+    "topic_id":65,
+    "llm_label":"Account security and fraud protection",
+    "probability":1.0
+  },
+  {
+    "title":"Accessing your transaction history from your Revolut account",
+    "topic_id":16,
+    "llm_label":"Download account statements",
+    "probability":0.0
+  },
+  {
+    "title":"What are linked wallets?",
+    "topic_id":35,
+    "llm_label":"Managing Click to Pay cards",
+    "probability":1.0
+  },
+  {
+    "title":"What are Wealth Protection limits?",
+    "topic_id":18,
+    "llm_label":"18_limits_withdrawal_atm_fees",
+    "probability":0.7087
+  },
+  {
+    "title":"Getting started with Street Mode",
+    "topic_id":65,
+    "llm_label":"Account security and fraud protection",
+    "probability":0.0
+  },
+  {
+    "title":"Limits",
+    "topic_id":18,
+    "llm_label":"18_limits_withdrawal_atm_fees",
+    "probability":0.746
+  },
+  {
+    "title":"Trouble with my selfie verification for Wealth Protection",
+    "topic_id":21,
+    "llm_label":"Identity and address verification",
+    "probability":0.4198
+  },
+  {
+    "title":"Getting started with Wealth Protection",
+    "topic_id":65,
+    "llm_label":"Account security and fraud protection",
+    "probability":0.0
+  },
+  {
+    "title":"What are Revolut's safety features?",
+    "topic_id":65,
+    "llm_label":"Account security and fraud protection",
+    "probability":1.0
+  },
+  {
+    "title":"What will happen to my funds if Revolut goes bankrupt?",
+    "topic_id":20,
+    "llm_label":"FSCS protection for accounts",
+    "probability":0.6913
+  },
+  {
+    "title":"How do I upload a document?",
+    "topic_id":21,
+    "llm_label":"Identity and address verification",
+    "probability":0.815
+  },
+  {
+    "title":"Difficulty with selfie authentication",
+    "topic_id":21,
+    "llm_label":"Identity and address verification",
+    "probability":0.4483
+  },
+  {
+    "title":"What is my tax identification number?",
+    "topic_id":17,
+    "llm_label":"Tax and national identification",
+    "probability":0.7718
+  },
+  {
+    "title":"Confirm your personal details again",
+    "topic_id":63,
+    "llm_label":"Personal data privacy and retention",
+    "probability":0.9532
+  },
+  {
+    "title":"Why is my incoming transfer pending?",
+    "topic_id":19,
+    "llm_label":"Transfer status and tracking",
+    "probability":1.0
+  },
+  {
+    "title":"Can I cover intermediary bank fees upfront?",
+    "topic_id":56,
+    "llm_label":"International transfer intermediary bank fees",
+    "probability":0.8766
+  },
+  {
+    "title":"Add, edit, or delete a beneficiary",
+    "topic_id":23,
+    "llm_label":"Canceling transfers and payment links",
+    "probability":0.9356
+  },
+  {
+    "title":"Trusted recipients",
+    "topic_id":23,
+    "llm_label":"Canceling transfers and payment links",
+    "probability":0.5385
+  },
+  {
+    "title":"Transfer I sent arrived in a different currency ",
+    "topic_id":42,
+    "llm_label":"Currency accounts and exchange rates",
+    "probability":0.5703
+  },
+  {
+    "title":"Why was my transfer sent via an intermediary bank?",
+    "topic_id":56,
+    "llm_label":"International transfer intermediary bank fees",
+    "probability":1.0
+  },
+  {
+    "title":"I received a transfer from an unknown sender",
+    "topic_id":23,
+    "llm_label":"Canceling transfers and payment links",
+    "probability":0.9483
+  },
+  {
+    "title":"Timeframes for transfers",
+    "topic_id":19,
+    "llm_label":"Transfer status and tracking",
+    "probability":0.3763
+  },
+  {
+    "title":"Bank transfer fees",
+    "topic_id":56,
+    "llm_label":"International transfer intermediary bank fees",
+    "probability":1.0
+  },
+  {
+    "title":"Can I receive large bank transfers into my Revolut account?",
+    "topic_id":7,
+    "llm_label":"Adding money via bank transfer",
+    "probability":0.0
+  },
+  {
+    "title":"Can I receive my salary into my Revolut account?",
+    "topic_id":7,
+    "llm_label":"Adding money via bank transfer",
+    "probability":0.598
+  },
+  {
+    "title":"Locate a bank transfer sent to my Revolut account",
+    "topic_id":19,
+    "llm_label":"Transfer status and tracking",
+    "probability":0.3756
+  },
+  {
+    "title":"Why did I receive less money?",
+    "topic_id":56,
+    "llm_label":"International transfer intermediary bank fees",
+    "probability":1.0
+  },
+  {
+    "title":"Why was the transfer to my account reverted?",
+    "topic_id":19,
+    "llm_label":"Transfer status and tracking",
+    "probability":1.0
+  },
+  {
+    "title":"Supported currencies for holding",
+    "topic_id":4,
+    "llm_label":"Supported currencies and cards",
+    "probability":1.0
+  },
+  {
+    "title":"Switch your account to Revolut",
+    "topic_id":34,
+    "llm_label":"Mobile number transfers",
+    "probability":0.0
+  },
+  {
+    "title":"What currency account details are available for me?",
+    "topic_id":7,
+    "llm_label":"Adding money via bank transfer",
+    "probability":0.0
+  },
+  {
+    "title":"What's Revolut's official name and address?",
+    "topic_id":56,
+    "llm_label":"International transfer intermediary bank fees",
+    "probability":0.0
+  },
+  {
+    "title":"What account details should I use for incoming transfers?",
+    "topic_id":7,
+    "llm_label":"Adding money via bank transfer",
+    "probability":0.0
+  },
+  {
+    "title":"How to transfer funds to Revolut",
+    "topic_id":7,
+    "llm_label":"Adding money via bank transfer",
+    "probability":0.5553
+  },
+  {
+    "title":"Unsupported inbound bank transfers",
+    "topic_id":4,
+    "llm_label":"Supported currencies and cards",
+    "probability":1.0
+  },
+  {
+    "title":"Difficulty adding money with an easy bank transfer",
+    "topic_id":7,
+    "llm_label":"Adding money via bank transfer",
+    "probability":1.0
+  },
+  {
+    "title":"Limits for transfers to other Revolut customers",
+    "topic_id":7,
+    "llm_label":"Adding money via bank transfer",
+    "probability":0.0
+  },
+  {
+    "title":"Block or report another Revolut customer",
+    "topic_id":68,
+    "llm_label":"Blocking and unblocking payments",
+    "probability":1.0
+  },
+  {
+    "title":"Group Bills",
+    "topic_id":27,
+    "llm_label":"Group Pockets",
+    "probability":0.0
+  },
+  {
+    "title":"I sent a transfer to the wrong Revolut customer",
+    "topic_id":23,
+    "llm_label":"Canceling transfers and payment links",
+    "probability":1.0
+  },
+  {
+    "title":"My transfer to another Revolut customer is pending",
+    "topic_id":23,
+    "llm_label":"Canceling transfers and payment links",
+    "probability":1.0
+  },
+  {
+    "title":"Send or request money from other Revolut customers",
+    "topic_id":7,
+    "llm_label":"Adding money via bank transfer",
+    "probability":0.5586
+  },
+  {
+    "title":"Revtags",
+    "topic_id":69,
+    "llm_label":"Account settings and notifications",
+    "probability":1.0
+  },
+  {
+    "title":"My transfer to or from someone on Revolut wasn't received",
+    "topic_id":5,
+    "llm_label":"Lost phone number login",
+    "probability":0.0
+  },
+  {
+    "title":"I'm unable to send money to another Revolut customer",
+    "topic_id":63,
+    "llm_label":"Personal data privacy and retention",
+    "probability":0.0
+  },
+  {
+    "title":"Transferring funds to an external card",
+    "topic_id":7,
+    "llm_label":"Adding money via bank transfer",
+    "probability":0.5459
+  },
+  {
+    "title":"I want to cancel my transfer to a card",
+    "topic_id":23,
+    "llm_label":"Canceling transfers and payment links",
+    "probability":0.9034
+  },
+  {
+    "title":"My beneficiary has not received my card transfer",
+    "topic_id":19,
+    "llm_label":"Transfer status and tracking",
+    "probability":0.7419
+  },
+  {
+    "title":"Which countries can I send a card transfer to?",
+    "topic_id":4,
+    "llm_label":"Supported currencies and cards",
+    "probability":1.0
+  },
+  {
+    "title":"Why has my card transfer failed or been declined?",
+    "topic_id":19,
+    "llm_label":"Transfer status and tracking",
+    "probability":0.0
+  },
+  {
+    "title":"Why is my card transfer still pending?",
+    "topic_id":19,
+    "llm_label":"Transfer status and tracking",
+    "probability":1.0
+  },
+  {
+    "title":"I want to cancel a bank transfer",
+    "topic_id":23,
+    "llm_label":"Canceling transfers and payment links",
+    "probability":0.7302
+  },
+  {
+    "title":"Locate a bank transfer sent from Revolut",
+    "topic_id":19,
+    "llm_label":"Transfer status and tracking",
+    "probability":0.6891
+  },
+  {
+    "title":"Why is my transfer to a bank account still pending?",
+    "topic_id":19,
+    "llm_label":"Transfer status and tracking",
+    "probability":0.6709
+  },
+  {
+    "title":"Why was my outbound bank transfer reverted?",
+    "topic_id":19,
+    "llm_label":"Transfer status and tracking",
+    "probability":1.0
+  },
+  {
+    "title":"I can't send a transfer or create a recipient",
+    "topic_id":19,
+    "llm_label":"Transfer status and tracking",
+    "probability":0.0
+  },
+  {
+    "title":"Can I make a local transfer in a different currency?",
+    "topic_id":7,
+    "llm_label":"Adding money via bank transfer",
+    "probability":0.5459
+  },
+  {
+    "title":"Download a transfer confirmation",
+    "topic_id":19,
+    "llm_label":"Transfer status and tracking",
+    "probability":0.0
+  },
+  {
+    "title":"Sending money from Revolut to a bank account",
+    "topic_id":7,
+    "llm_label":"Adding money via bank transfer",
+    "probability":0.5553
+  },
+  {
+    "title":"Problem with a Direct Debit",
+    "topic_id":46,
+    "llm_label":"Scheduled transfers and custom categories",
+    "probability":0.0
+  },
+  {
+    "title":"Manage Direct Debits",
+    "topic_id":46,
+    "llm_label":"Scheduled transfers and custom categories",
+    "probability":1.0
+  },
+  {
+    "title":"Setting up a Direct Debit",
+    "topic_id":46,
+    "llm_label":"Scheduled transfers and custom categories",
+    "probability":0.0
+  },
+  {
+    "title":"Sending and requesting money with a payment link",
+    "topic_id":12,
+    "llm_label":"Accepting payments with Revolut",
+    "probability":1.0
+  },
+  {
+    "title":"Why did my recipient receive less money?",
+    "topic_id":56,
+    "llm_label":"International transfer intermediary bank fees",
+    "probability":0.7579
+  },
+  {
+    "title":"I was asked for additional information about my transaction",
+    "topic_id":21,
+    "llm_label":"Identity and address verification",
+    "probability":0.5288
+  },
+  {
+    "title":"Unsupported transfers sent from Revolut",
+    "topic_id":4,
+    "llm_label":"Supported currencies and cards",
+    "probability":1.0
+  },
+  {
+    "title":"More help with sending money via a payment link",
+    "topic_id":23,
+    "llm_label":"Canceling transfers and payment links",
+    "probability":1.0
+  },
+  {
+    "title":"Revolut.me link",
+    "topic_id":12,
+    "llm_label":"Accepting payments with Revolut",
+    "probability":1.0
+  },
+  {
+    "title":"Insufficient funds for scheduled transfer",
+    "topic_id":46,
+    "llm_label":"Scheduled transfers and custom categories",
+    "probability":0.0
+  },
+  {
+    "title":"Setting up scheduled payments to another Revolut customer",
+    "topic_id":46,
+    "llm_label":"Scheduled transfers and custom categories",
+    "probability":0.0
+  },
+  {
+    "title":"Can I transfer money to or from Russia or Belarus?",
+    "topic_id":4,
+    "llm_label":"Supported currencies and cards",
+    "probability":1.0
+  },
+  {
+    "title":"Can I transfer money to Ukraine?",
+    "topic_id":4,
+    "llm_label":"Supported currencies and cards",
+    "probability":1.0
+  },
+  {
+    "title":"Supported currencies for outgoing transfers",
+    "topic_id":4,
+    "llm_label":"Supported currencies and cards",
+    "probability":1.0
+  },
+  {
+    "title":"Benefits and risks of trading crypto ETNs",
+    "topic_id":11,
+    "llm_label":"Exchange Traded Products",
+    "probability":1.0
+  },
+  {
+    "title":"Get started with crypto ETNs",
+    "topic_id":11,
+    "llm_label":"Exchange Traded Products",
+    "probability":1.0
+  },
+  {
+    "title":"Get started with non-crypto ETPs",
+    "topic_id":11,
+    "llm_label":"Exchange Traded Products",
+    "probability":1.0
+  },
+  {
+    "title":"What does it mean to be a high-net-worth investor?",
+    "topic_id":11,
+    "llm_label":"Exchange Traded Products",
+    "probability":1.0
+  },
+  {
+    "title":"What does it mean to be a restricted investor?",
+    "topic_id":11,
+    "llm_label":"Exchange Traded Products",
+    "probability":1.0
+  },
+  {
+    "title":"Leveraged and inverse ETPs",
+    "topic_id":11,
+    "llm_label":"Exchange Traded Products",
+    "probability":1.0
+  },
+  {
+    "title":"What is a crypto ETN?",
+    "topic_id":11,
+    "llm_label":"Exchange Traded Products",
+    "probability":1.0
+  },
+  {
+    "title":"Get started with ETCs",
+    "topic_id":11,
+    "llm_label":"Exchange Traded Products",
+    "probability":1.0
+  },
+  {
+    "title":"Get started with ETNs",
+    "topic_id":11,
+    "llm_label":"Exchange Traded Products",
+    "probability":1.0
+  },
+  {
+    "title":"What is an Exchange-Traded Product (ETP)?",
+    "topic_id":11,
+    "llm_label":"Exchange Traded Products",
+    "probability":1.0
+  },
+  {
+    "title":"Exceeding my ISA allowance",
+    "topic_id":49,
+    "llm_label":"Stocks and Shares ISA rules",
+    "probability":1.0
+  },
+  {
+    "title":"Investing with the Stocks and Shares ISA",
+    "topic_id":49,
+    "llm_label":"Stocks and Shares ISA rules",
+    "probability":1.0
+  },
+  {
+    "title":"Stocks and Shares Individual Savings Account (ISA)",
+    "topic_id":49,
+    "llm_label":"Stocks and Shares ISA rules",
+    "probability":1.0
+  },
+  {
+    "title":"Stocks and Shares ISA rules",
+    "topic_id":49,
+    "llm_label":"Stocks and Shares ISA rules",
+    "probability":1.0
+  },
+  {
+    "title":"Stocks and Shares ISA transfers",
+    "topic_id":49,
+    "llm_label":"Stocks and Shares ISA rules",
+    "probability":0.3908
+  },
+  {
+    "title":"What are the Stocks and Shares ISA fees?",
+    "topic_id":32,
+    "llm_label":"Trading fees and allowances",
+    "probability":0.6822
+  },
+  {
+    "title":"What happens to my Stocks and Shares ISA if I move abroad?",
+    "topic_id":17,
+    "llm_label":"Tax and national identification",
+    "probability":0.1511
+  },
+  {
+    "title":"Trading Terminal",
+    "topic_id":3,
+    "llm_label":"Crypto account setup and security",
+    "probability":1.0
+  },
+  {
+    "title":"Crypto collections",
+    "topic_id":3,
+    "llm_label":"Crypto account setup and security",
+    "probability":1.0
+  },
+  {
+    "title":"Accessing Revolut X",
+    "topic_id":5,
+    "llm_label":"Lost phone number login",
+    "probability":1.0
+  },
+  {
+    "title":"Revolut X top-ups and withdrawals",
+    "topic_id":50,
+    "llm_label":"Crypto card payments and Ramp",
+    "probability":1.0
+  },
+  {
+    "title":"Get started with Revolut X",
+    "topic_id":5,
+    "llm_label":"Lost phone number login",
+    "probability":0.0
+  },
+  {
+    "title":"What types of orders can I create on Revolut X?",
+    "topic_id":0,
+    "llm_label":"Trading order types",
+    "probability":1.0
+  },
+  {
+    "title":"About crypto unified balance",
+    "topic_id":3,
+    "llm_label":"Crypto account setup and security",
+    "probability":1.0
+  },
+  {
+    "title":"Revolut X fees",
+    "topic_id":18,
+    "llm_label":"18_limits_withdrawal_atm_fees",
+    "probability":0.0
+  },
+  {
+    "title":"Failed orders in Revolut X",
+    "topic_id":0,
+    "llm_label":"Trading order types",
+    "probability":0.5525
+  },
+  {
+    "title":"Why can't I trade in Revolut X?",
+    "topic_id":0,
+    "llm_label":"Trading order types",
+    "probability":0.0
+  },
+  {
+    "title":"Why is part of my Revolut X portfolio balance unavailable?",
+    "topic_id":0,
+    "llm_label":"Trading order types",
+    "probability":0.558
+  },
+  {
+    "title":"Issues with Take Profit or Stop Loss orders",
+    "topic_id":0,
+    "llm_label":"Trading order types",
+    "probability":1.0
+  },
+  {
+    "title":"Take Profit and Stop Loss orders",
+    "topic_id":0,
+    "llm_label":"Trading order types",
+    "probability":1.0
+  },
+  {
+    "title":"Setting up a virtual crypto card",
+    "topic_id":41,
+    "llm_label":"Virtual card usage and limits",
+    "probability":0.2355
+  },
+  {
+    "title":"Crypto payment fees, rates, and limits",
+    "topic_id":18,
+    "llm_label":"18_limits_withdrawal_atm_fees",
+    "probability":0.6463
+  },
+  {
+    "title":"Crypto payments and how they work",
+    "topic_id":50,
+    "llm_label":"Crypto card payments and Ramp",
+    "probability":1.0
+  },
+  {
+    "title":"View your crypto card payments",
+    "topic_id":50,
+    "llm_label":"Crypto card payments and Ramp",
+    "probability":0.8132
+  },
+  {
+    "title":"How does crypto staking work?",
+    "topic_id":3,
+    "llm_label":"Crypto account setup and security",
+    "probability":0.0
+  },
+  {
+    "title":"Is there a fee associated with crypto staking?",
+    "topic_id":18,
+    "llm_label":"18_limits_withdrawal_atm_fees",
+    "probability":0.5948
+  },
+  {
+    "title":"Stake and unstake crypto",
+    "topic_id":3,
+    "llm_label":"Crypto account setup and security",
+    "probability":0.8366
+  },
+  {
+    "title":"Calculation of crypto tiered pricing",
+    "topic_id":47,
+    "llm_label":"Crypto trading fee tiers",
+    "probability":1.0
+  },
+  {
+    "title":"Tier progression and account changes",
+    "topic_id":47,
+    "llm_label":"Crypto trading fee tiers",
+    "probability":1.0
+  },
+  {
+    "title":"Trading with crypto tiered pricing",
+    "topic_id":47,
+    "llm_label":"Crypto trading fee tiers",
+    "probability":1.0
+  },
+  {
+    "title":"How to make sure crypto withdrawals are processed smoothly",
+    "topic_id":8,
+    "llm_label":"Crypto deposit troubleshooting",
+    "probability":0.6888
+  },
+  {
+    "title":"How to ensure my crypto is transferred successfully?",
+    "topic_id":8,
+    "llm_label":"Crypto deposit troubleshooting",
+    "probability":0.4941
+  },
+  {
+    "title":"Crypto notifications",
+    "topic_id":69,
+    "llm_label":"Account settings and notifications",
+    "probability":0.0
+  },
+  {
+    "title":"Crypto recurring buy",
+    "topic_id":0,
+    "llm_label":"Trading order types",
+    "probability":1.0
+  },
+  {
+    "title":"Crypto rates and spread",
+    "topic_id":47,
+    "llm_label":"Crypto trading fee tiers",
+    "probability":1.0
+  },
+  {
+    "title":"Fees for trading crypto",
+    "topic_id":47,
+    "llm_label":"Crypto trading fee tiers",
+    "probability":0.6332
+  },
+  {
+    "title":"Crypto limit order",
+    "topic_id":0,
+    "llm_label":"Trading order types",
+    "probability":1.0
+  },
+  {
+    "title":"What is a crypto market order?",
+    "topic_id":0,
+    "llm_label":"Trading order types",
+    "probability":1.0
+  },
+  {
+    "title":"Crypto stop order",
+    "topic_id":0,
+    "llm_label":"Trading order types",
+    "probability":1.0
+  },
+  {
+    "title":"Crypto Learn",
+    "topic_id":3,
+    "llm_label":"Crypto account setup and security",
+    "probability":1.0
+  },
+  {
+    "title":"How does converting cryptocurrency to fiat currency work?",
+    "topic_id":3,
+    "llm_label":"Crypto account setup and security",
+    "probability":1.0
+  },
+  {
+    "title":"Crypto delisting",
+    "topic_id":3,
+    "llm_label":"Crypto account setup and security",
+    "probability":0.0
+  },
+  {
+    "title":"Crypto account onboarding requirements",
+    "topic_id":3,
+    "llm_label":"Crypto account setup and security",
+    "probability":1.0
+  },
+  {
+    "title":"Other crypto token information",
+    "topic_id":50,
+    "llm_label":"Crypto card payments and Ramp",
+    "probability":1.0
+  },
+  {
+    "title":"Revolut crypto features and products",
+    "topic_id":3,
+    "llm_label":"Crypto account setup and security",
+    "probability":1.0
+  },
+  {
+    "title":"Can I set target prices for exchanging cryptocurrency?",
+    "topic_id":0,
+    "llm_label":"Trading order types",
+    "probability":1.0
+  },
+  {
+    "title":"Receive (deposit) crypto from an external address",
+    "topic_id":8,
+    "llm_label":"Crypto deposit troubleshooting",
+    "probability":0.9985
+  },
+  {
+    "title":"Return or manage crypto deposits",
+    "topic_id":8,
+    "llm_label":"Crypto deposit troubleshooting",
+    "probability":1.0
+  },
+  {
+    "title":"Failed crypto deposits",
+    "topic_id":8,
+    "llm_label":"Crypto deposit troubleshooting",
+    "probability":1.0
+  },
+  {
+    "title":"Addresses supported for withdrawing and reverting crypto deposits",
+    "topic_id":8,
+    "llm_label":"Crypto deposit troubleshooting",
+    "probability":1.0
+  },
+  {
+    "title":"Can't see my deposit in-app",
+    "topic_id":8,
+    "llm_label":"Crypto deposit troubleshooting",
+    "probability":0.6545
+  },
+  {
+    "title":"Pending crypto deposits",
+    "topic_id":8,
+    "llm_label":"Crypto deposit troubleshooting",
+    "probability":0.4941
+  },
+  {
+    "title":"Supported crypto deposit currencies, networks, and exchanges",
+    "topic_id":8,
+    "llm_label":"Crypto deposit troubleshooting",
+    "probability":0.7686
+  },
+  {
+    "title":"Do I have an individual cryptocurrency wallet?",
+    "topic_id":3,
+    "llm_label":"Crypto account setup and security",
+    "probability":1.0
+  },
+  {
+    "title":"Add a new wallet to withdraw crypto",
+    "topic_id":50,
+    "llm_label":"Crypto card payments and Ramp",
+    "probability":1.0
+  },
+  {
+    "title":"Crypto withdrawal fees",
+    "topic_id":18,
+    "llm_label":"18_limits_withdrawal_atm_fees",
+    "probability":0.479
+  },
+  {
+    "title":"Crypto withdrawal limits",
+    "topic_id":18,
+    "llm_label":"18_limits_withdrawal_atm_fees",
+    "probability":0.7278
+  },
+  {
+    "title":"Cryptocurrencies and networks available for withdrawals",
+    "topic_id":8,
+    "llm_label":"Crypto deposit troubleshooting",
+    "probability":1.0
+  },
+  {
+    "title":"Send (withdraw) crypto to an external address",
+    "topic_id":8,
+    "llm_label":"Crypto deposit troubleshooting",
+    "probability":1.0
+  },
+  {
+    "title":"Pending crypto withdrawals",
+    "topic_id":8,
+    "llm_label":"Crypto deposit troubleshooting",
+    "probability":0.6292
+  },
+  {
+    "title":"Failed crypto withdrawals",
+    "topic_id":8,
+    "llm_label":"Crypto deposit troubleshooting",
+    "probability":1.0
+  },
+  {
+    "title":"Cryptocurrency networks",
+    "topic_id":8,
+    "llm_label":"Crypto deposit troubleshooting",
+    "probability":0.6847
+  },
+  {
+    "title":"Buy and sell crypto",
+    "topic_id":3,
+    "llm_label":"Crypto account setup and security",
+    "probability":1.0
+  },
+  {
+    "title":"Crypto basics",
+    "topic_id":3,
+    "llm_label":"Crypto account setup and security",
+    "probability":1.0
+  },
+  {
+    "title":"Is my crypto safe with Revolut?",
+    "topic_id":3,
+    "llm_label":"Crypto account setup and security",
+    "probability":1.0
+  },
+  {
+    "title":"Who provides Revolut's crypto services?",
+    "topic_id":54,
+    "llm_label":"Revolut service providers and regulation",
+    "probability":1.0
+  },
+  {
+    "title":"Taxes on crypto",
+    "topic_id":3,
+    "llm_label":"Crypto account setup and security",
+    "probability":0.9417
+  },
+  {
+    "title":"Koinly crypto tax reports",
+    "topic_id":3,
+    "llm_label":"Crypto account setup and security",
+    "probability":1.0
+  },
+  {
+    "title":"Why do I need to name the wallet owner for withdrawals?",
+    "topic_id":17,
+    "llm_label":"Tax and national identification",
+    "probability":0.1712
+  },
+  {
+    "title":"Crypto private keys and exposure on the blockchain",
+    "topic_id":3,
+    "llm_label":"Crypto account setup and security",
+    "probability":1.0
+  },
+  {
+    "title":"Crypto spare change",
+    "topic_id":59,
+    "llm_label":"Spare change round ups",
+    "probability":1.0
+  },
+  {
+    "title":"What exchange rates does Revolut offer?",
+    "topic_id":42,
+    "llm_label":"Currency accounts and exchange rates",
+    "probability":0.0
+  },
+  {
+    "title":"Currency exchange fees and limits",
+    "topic_id":18,
+    "llm_label":"18_limits_withdrawal_atm_fees",
+    "probability":1.0
+  },
+  {
+    "title":"How do I exchange money?",
+    "topic_id":42,
+    "llm_label":"Currency accounts and exchange rates",
+    "probability":1.0
+  },
+  {
+    "title":"Currency exchange orders",
+    "topic_id":0,
+    "llm_label":"Trading order types",
+    "probability":1.0
+  },
+  {
+    "title":"I just made an exchange, but I can't find my money",
+    "topic_id":42,
+    "llm_label":"Currency accounts and exchange rates",
+    "probability":1.0
+  },
+  {
+    "title":"Why might my currency order fail or not execute?",
+    "topic_id":0,
+    "llm_label":"Trading order types",
+    "probability":0.6262
+  },
+  {
+    "title":"Open and manage additional currency accounts",
+    "topic_id":42,
+    "llm_label":"Currency accounts and exchange rates",
+    "probability":0.6635
+  },
+  {
+    "title":"Investor related tax information",
+    "topic_id":17,
+    "llm_label":"Tax and national identification",
+    "probability":1.0
+  },
+  {
+    "title":"How does the commission-free allowance work?",
+    "topic_id":32,
+    "llm_label":"Trading fees and allowances",
+    "probability":1.0
+  },
+  {
+    "title":"Trading orders routing",
+    "topic_id":0,
+    "llm_label":"Trading order types",
+    "probability":1.0
+  },
+  {
+    "title":"What are trading regulatory fees and taxes?",
+    "topic_id":32,
+    "llm_label":"Trading fees and allowances",
+    "probability":0.7906
+  },
+  {
+    "title":"Buying or selling commodities",
+    "topic_id":3,
+    "llm_label":"Crypto account setup and security",
+    "probability":1.0
+  },
+  {
+    "title":"Commodities prices, rates, and fees",
+    "topic_id":47,
+    "llm_label":"Crypto trading fee tiers",
+    "probability":0.6177
+  },
+  {
+    "title":"Commodities supported features",
+    "topic_id":3,
+    "llm_label":"Crypto account setup and security",
+    "probability":1.0
+  },
+  {
+    "title":"Which precious metals are supported?",
+    "topic_id":3,
+    "llm_label":"Crypto account setup and security",
+    "probability":1.0
+  },
+  {
+    "title":"Start with Revolut Ramp",
+    "topic_id":3,
+    "llm_label":"Crypto account setup and security",
+    "probability":1.0
+  },
+  {
+    "title":"How can I get a full statement of my Ramp transaction?",
+    "topic_id":50,
+    "llm_label":"Crypto card payments and Ramp",
+    "probability":0.0
+  },
+  {
+    "title":"Pay with Revolut Ramp",
+    "topic_id":50,
+    "llm_label":"Crypto card payments and Ramp",
+    "probability":0.7993
+  },
+  {
+    "title":"What are the fees for Revolut Ramp?",
+    "topic_id":50,
+    "llm_label":"Crypto card payments and Ramp",
+    "probability":0.0
+  },
+  {
+    "title":"I sent crypto to an incorrect wallet address. What can I do?",
+    "topic_id":8,
+    "llm_label":"Crypto deposit troubleshooting",
+    "probability":1.0
+  },
+  {
+    "title":"I was charged extra by my bank for a Ramp payment. Why?",
+    "topic_id":50,
+    "llm_label":"Crypto card payments and Ramp",
+    "probability":0.0
+  },
+  {
+    "title":"My Ramp payment failed. What should I do?",
+    "topic_id":58,
+    "llm_label":"Card payment declined",
+    "probability":1.0
+  },
+  {
+    "title":"My Ramp transaction is completed but I didn't receive the funds",
+    "topic_id":8,
+    "llm_label":"Crypto deposit troubleshooting",
+    "probability":0.0
+  },
+  {
+    "title":"My Ramp payment was completed but I didn’t receive the crypto. What should I do?",
+    "topic_id":8,
+    "llm_label":"Crypto deposit troubleshooting",
+    "probability":0.3777
+  },
+  {
+    "title":"Revolut Ramp supported currencies and limits",
+    "topic_id":3,
+    "llm_label":"Crypto account setup and security",
+    "probability":0.9251
+  },
+  {
+    "title":"Why did I receive less crypto than I paid for?",
+    "topic_id":8,
+    "llm_label":"Crypto deposit troubleshooting",
+    "probability":0.3389
+  },
+  {
+    "title":"Why was I charged more than I was shown?",
+    "topic_id":56,
+    "llm_label":"International transfer intermediary bank fees",
+    "probability":0.0
+  },
+  {
+    "title":"Advantages of investing in bonds",
+    "topic_id":55,
+    "llm_label":"Bond investment basics",
+    "probability":0.5995
+  },
+  {
+    "title":"Get started with Bonds",
+    "topic_id":55,
+    "llm_label":"Bond investment basics",
+    "probability":1.0
+  },
+  {
+    "title":"Bonds fees",
+    "topic_id":32,
+    "llm_label":"Trading fees and allowances",
+    "probability":1.0
+  },
+  {
+    "title":"Bonds terms and definitions",
+    "topic_id":55,
+    "llm_label":"Bond investment basics",
+    "probability":1.0
+  },
+  {
+    "title":"Bond credit ratings",
+    "topic_id":55,
+    "llm_label":"Bond investment basics",
+    "probability":1.0
+  },
+  {
+    "title":"Buy bonds in the Revolut app",
+    "topic_id":0,
+    "llm_label":"Trading order types",
+    "probability":1.0
+  },
+  {
+    "title":"Buying a corporate bond vs buying stock in the same company",
+    "topic_id":55,
+    "llm_label":"Bond investment basics",
+    "probability":0.0
+  },
+  {
+    "title":"Bond name interpretation in the Revolut app",
+    "topic_id":55,
+    "llm_label":"Bond investment basics",
+    "probability":1.0
+  },
+  {
+    "title":"How does Revolut process corporate actions?",
+    "topic_id":31,
+    "llm_label":"Stock investing fundamentals",
+    "probability":0.0
+  },
+  {
+    "title":"Dividends",
+    "topic_id":49,
+    "llm_label":"Stocks and Shares ISA rules",
+    "probability":0.2145
+  },
+  {
+    "title":"Merger or acquisition of a company whose shares I own",
+    "topic_id":31,
+    "llm_label":"Stock investing fundamentals",
+    "probability":1.0
+  },
+  {
+    "title":"Stock delisting",
+    "topic_id":0,
+    "llm_label":"Trading order types",
+    "probability":0.7261
+  },
+  {
+    "title":"Stock split",
+    "topic_id":31,
+    "llm_label":"Stock investing fundamentals",
+    "probability":1.0
+  },
+  {
+    "title":"Trading customer support",
+    "topic_id":45,
+    "llm_label":"Contacting support and complaints",
+    "probability":0.3465
+  },
+  {
+    "title":"Which Revolut Trading entity is providing me services?",
+    "topic_id":54,
+    "llm_label":"Revolut service providers and regulation",
+    "probability":0.0
+  },
+  {
+    "title":"Financial ratios for company analysis",
+    "topic_id":31,
+    "llm_label":"Stock investing fundamentals",
+    "probability":0.4956
+  },
+  {
+    "title":"Market analysis",
+    "topic_id":31,
+    "llm_label":"Stock investing fundamentals",
+    "probability":0.3966
+  },
+  {
+    "title":"OTC stocks",
+    "topic_id":0,
+    "llm_label":"Trading order types",
+    "probability":0.6884
+  },
+  {
+    "title":"Stock basics",
+    "topic_id":31,
+    "llm_label":"Stock investing fundamentals",
+    "probability":1.0
+  },
+  {
+    "title":"Stock markets",
+    "topic_id":0,
+    "llm_label":"Trading order types",
+    "probability":0.6908
+  },
+  {
+    "title":"What is a fractional share?",
+    "topic_id":31,
+    "llm_label":"Stock investing fundamentals",
+    "probability":0.4901
+  },
+  {
+    "title":"What is a trading halt?",
+    "topic_id":0,
+    "llm_label":"Trading order types",
+    "probability":1.0
+  },
+  {
+    "title":"How do I update my trading account details?",
+    "topic_id":5,
+    "llm_label":"Lost phone number login",
+    "probability":1.0
+  },
+  {
+    "title":"Why are you asking me for documents to open or continue using Revolut trading?",
+    "topic_id":21,
+    "llm_label":"Identity and address verification",
+    "probability":0.6274
+  },
+  {
+    "title":"Understanding our onboarding question about affiliations",
+    "topic_id":17,
+    "llm_label":"Tax and national identification",
+    "probability":0.1537
+  },
+  {
+    "title":"Close my investment account",
+    "topic_id":22,
+    "llm_label":"Joint account management",
+    "probability":0.3192
+  },
+  {
+    "title":"Reasons an investment account may be closed",
+    "topic_id":22,
+    "llm_label":"Joint account management",
+    "probability":0.0
+  },
+  {
+    "title":"How is the portfolio value calculated?",
+    "topic_id":31,
+    "llm_label":"Stock investing fundamentals",
+    "probability":0.4651
+  },
+  {
+    "title":"Overview of Revolut Trading Ltd's omnibus account ",
+    "topic_id":20,
+    "llm_label":"FSCS protection for accounts",
+    "probability":0.6913
+  },
+  {
+    "title":"Trading watchlist and price alerts",
+    "topic_id":0,
+    "llm_label":"Trading order types",
+    "probability":0.0
+  },
+  {
+    "title":"Trading account information, statements and reports",
+    "topic_id":16,
+    "llm_label":"Download account statements",
+    "probability":0.551
+  },
+  {
+    "title":"Trade confirmation statements",
+    "topic_id":16,
+    "llm_label":"Download account statements",
+    "probability":0.3061
+  },
+  {
+    "title":"Fund my investment account",
+    "topic_id":42,
+    "llm_label":"Currency accounts and exchange rates",
+    "probability":1.0
+  },
+  {
+    "title":"Using your credit card or a personal loan to trade stocks",
+    "topic_id":11,
+    "llm_label":"Exchange Traded Products",
+    "probability":0.0
+  },
+  {
+    "title":"How to withdraw funds from my investment account",
+    "topic_id":0,
+    "llm_label":"Trading order types",
+    "probability":0.0
+  },
+  {
+    "title":"Open an investment account",
+    "topic_id":17,
+    "llm_label":"Tax and national identification",
+    "probability":0.1537
+  },
+  {
+    "title":"Can I transfer my account from another broker?",
+    "topic_id":19,
+    "llm_label":"Transfer status and tracking",
+    "probability":0.0
+  },
+  {
+    "title":"Why does Revolut need my national identifier?",
+    "topic_id":17,
+    "llm_label":"Tax and national identification",
+    "probability":0.7718
+  },
+  {
+    "title":"What information do I need to provide to onboard to trading?",
+    "topic_id":17,
+    "llm_label":"Tax and national identification",
+    "probability":0.7013
+  },
+  {
+    "title":"What is an execution-only service?",
+    "topic_id":0,
+    "llm_label":"Trading order types",
+    "probability":0.9269
+  },
+  {
+    "title":"What is a Special Purpose Acquisition Company (SPAC)?",
+    "topic_id":11,
+    "llm_label":"Exchange Traded Products",
+    "probability":0.4353
+  },
+  {
+    "title":"American depositary receipts (ADRs) and pass-through fees",
+    "topic_id":32,
+    "llm_label":"Trading fees and allowances",
+    "probability":0.6802
+  },
+  {
+    "title":"Products available to trade",
+    "topic_id":11,
+    "llm_label":"Exchange Traded Products",
+    "probability":0.6599
+  },
+  {
+    "title":"Can I have a trading account if I’m a US Person?",
+    "topic_id":17,
+    "llm_label":"Tax and national identification",
+    "probability":0.3151
+  },
+  {
+    "title":"Who is Revolut Trading Ltd authorised by?",
+    "topic_id":54,
+    "llm_label":"Revolut service providers and regulation",
+    "probability":1.0
+  },
+  {
+    "title":"What are non-tradable securities?",
+    "topic_id":0,
+    "llm_label":"Trading order types",
+    "probability":0.0
+  },
+  {
+    "title":"Do I own my stocks?",
+    "topic_id":31,
+    "llm_label":"Stock investing fundamentals",
+    "probability":1.0
+  },
+  {
+    "title":"How are my investments with Revolut protected?",
+    "topic_id":20,
+    "llm_label":"FSCS protection for accounts",
+    "probability":0.574
+  },
+  {
+    "title":"How are the funds in my investment account protected?",
+    "topic_id":20,
+    "llm_label":"FSCS protection for accounts",
+    "probability":0.7848
+  },
+  {
+    "title":"What does capital at risk mean?",
+    "topic_id":11,
+    "llm_label":"Exchange Traded Products",
+    "probability":0.9777
+  },
+  {
+    "title":"Buy order block",
+    "topic_id":0,
+    "llm_label":"Trading order types",
+    "probability":1.0
+  },
+  {
+    "title":"Pending trading orders",
+    "topic_id":0,
+    "llm_label":"Trading order types",
+    "probability":1.0
+  },
+  {
+    "title":"Close a stock position",
+    "topic_id":0,
+    "llm_label":"Trading order types",
+    "probability":0.0
+  },
+  {
+    "title":"How to place a stock order",
+    "topic_id":0,
+    "llm_label":"Trading order types",
+    "probability":1.0
+  },
+  {
+    "title":"Can I use leverage to trade?",
+    "topic_id":11,
+    "llm_label":"Exchange Traded Products",
+    "probability":0.3682
+  },
+  {
+    "title":"What is a GTC Order and how does it work?",
+    "topic_id":0,
+    "llm_label":"Trading order types",
+    "probability":0.8207
+  },
+  {
+    "title":"Trading limit orders",
+    "topic_id":0,
+    "llm_label":"Trading order types",
+    "probability":1.0
+  },
+  {
+    "title":"What is a stop order?",
+    "topic_id":0,
+    "llm_label":"Trading order types",
+    "probability":1.0
+  },
+  {
+    "title":"Trading order types",
+    "topic_id":0,
+    "llm_label":"Trading order types",
+    "probability":0.9194
+  },
+  {
+    "title":"Top Movers",
+    "topic_id":0,
+    "llm_label":"Trading order types",
+    "probability":0.6712
+  },
+  {
+    "title":"Security prices",
+    "topic_id":0,
+    "llm_label":"Trading order types",
+    "probability":0.7584
+  },
+  {
+    "title":"What are Revolut's trading fees?",
+    "topic_id":32,
+    "llm_label":"Trading fees and allowances",
+    "probability":1.0
+  },
+  {
+    "title":"Trading value limits",
+    "topic_id":0,
+    "llm_label":"Trading order types",
+    "probability":0.6352
+  },
+  {
+    "title":"Why is my stock on 'sell only'?",
+    "topic_id":0,
+    "llm_label":"Trading order types",
+    "probability":0.9269
+  },
+  {
+    "title":"Orders submitted during extended hours trading",
+    "topic_id":0,
+    "llm_label":"Trading order types",
+    "probability":0.9601
+  },
+  {
+    "title":"Extended hours trading risks",
+    "topic_id":0,
+    "llm_label":"Trading order types",
+    "probability":1.0
+  },
+  {
+    "title":"How extended hours trading works",
+    "topic_id":0,
+    "llm_label":"Trading order types",
+    "probability":1.0
+  },
+  {
+    "title":"What is a trading day?",
+    "topic_id":0,
+    "llm_label":"Trading order types",
+    "probability":1.0
+  },
+  {
+    "title":"Trading hours",
+    "topic_id":0,
+    "llm_label":"Trading order types",
+    "probability":1.0
+  },
+  {
+    "title":"What are the fees for Trading Pro?",
+    "topic_id":32,
+    "llm_label":"Trading fees and allowances",
+    "probability":0.7078
+  },
+  {
+    "title":"What is Trading Pro?",
+    "topic_id":32,
+    "llm_label":"Trading fees and allowances",
+    "probability":0.5289
+  }
+]
